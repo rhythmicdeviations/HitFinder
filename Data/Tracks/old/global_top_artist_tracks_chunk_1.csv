@@ -1,0 +1,649 @@
+name,id,artist,artist_id,album,popularity,is_top_10,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Getting Older,4HOryCnbme0zBnF8LWij3f,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,70,0,False,0.599,0.128,10.0,-17.261,1.0,0.109,0.974,0.121,0.115,0.367,159.679,244221.0,4.0
+I Didn't Change My Number,7bcy34fBT2ap1L4bfPsl9q,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,72,0,True,0.849,0.48,9.0,-5.835,1.0,0.226,0.612,0.269,0.295,0.677,142.021,158463.0,4.0
+Billie Bossa Nova,2KnuaZYoGzDoHiBTNYOTXG,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,77,0,False,0.895,0.389,7.0,-11.036,0.0,0.11,0.222,0.0346,0.105,0.549,110.023,196731.0,4.0
+my future,3YUMWmx8EJq0DurfuIwoGh,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,68,0,False,0.456,0.285,8.0,-10.755,1.0,0.0979,0.814,0.143,0.307,0.0809,104.89,210005.0,4.0
+Oxytocin,4t2OeILB07eMGTXSUbMPEu,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,68,0,False,0.757,0.598,11.0,-7.777,1.0,0.058,0.0904,0.551,0.15,0.18,124.951,210233.0,4.0
+GOLDWING,0FfqyjhB6Kspvit1oOo7ax,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,66,0,False,0.654,0.303,5.0,-13.943,0.0,0.126,0.755,0.159,0.0957,0.168,160.095,151537.0,4.0
+Lost Cause,4191RXFPa7Ge9XkA4cWlna,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,69,0,True,0.526,0.334,10.0,-8.491,0.0,0.251,0.702,0.00782,0.0586,0.522,74.966,212496.0,4.0
+Halley's Comet,5XsAal7ZcWg1I5T4NcRjkv,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,75,0,False,0.403,0.159,1.0,-16.728,0.0,0.104,0.961,0.0121,0.34,0.0381,72.38,234761.0,4.0
+Not My Responsibility,4T2zre0jqstNJ5Gt0WG9lz,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,67,0,False,0.468,0.13,1.0,-18.031,1.0,0.0571,0.454,0.927,0.0819,0.0362,115.039,227680.0,4.0
+OverHeated,5uSG6fUPRaehaV820zcpsK,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,64,0,True,0.777,0.522,8.0,-12.496,0.0,0.0535,0.527,0.838,0.0968,0.182,115.008,214059.0,4.0
+Everybody Dies,5jhBwnqzNNrENXnYrAdoCe,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,65,0,False,0.275,0.155,7.0,-17.285,0.0,0.0674,0.928,0.176,0.0888,0.0588,65.136,206623.0,3.0
+Your Power,042Sl6Mn83JHyLEqdK7uI0,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,72,0,False,0.632,0.284,9.0,-14.025,0.0,0.0801,0.932,0.000476,0.233,0.208,129.642,245897.0,4.0
+NDA,38GBNKZUhfBkk3oNlWzRYd,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,74,0,True,0.765,0.373,8.0,-9.921,1.0,0.0713,0.341,0.525,0.112,0.554,85.016,195777.0,4.0
+Therefore I Am,20R4HfKloPKgXDqU7UKk3x,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,72,0,False,0.879,0.365,2.0,-7.781,1.0,0.0924,0.227,0.135,0.0583,0.663,94.016,173539.0,4.0
+Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,82,0,True,0.332,0.225,0.0,-8.697,1.0,0.0348,0.767,0.00349,0.128,0.297,81.055,298899.0,3.0
+Male Fantasy,4ak9GGe6afmi2HbxEjvhIC,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,68,0,False,0.687,0.288,2.0,-10.415,1.0,0.045,0.863,0.0,0.0986,0.308,110.927,194887.0,4.0
+Intro - Live,7HX1VOiPj1oMlgZ3OQ92B6,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,43,0,False,0.164,0.426,7.0,-8.864,1.0,0.0447,7.38e-06,0.793,0.527,0.0568,111.454,95814.0,3.0
+Alone Again - Live,2evYKtXNAdn60ANNEdjH7V,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,46,0,True,0.312,0.532,4.0,-6.144,0.0,0.0344,0.319,0.0,0.806,0.185,81.093,167253.0,4.0
+Gasoline - Live,2h3ZotklPN6aD7OuHz7bFZ,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,46,0,False,0.654,0.831,10.0,-7.726,0.0,0.0398,0.00232,0.0151,0.5,0.176,123.985,195635.0,4.0
+Sacrifice - Live,7skxtd9x0d05fjz4D7w3t2,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,47,0,True,0.685,0.944,6.0,-8.265,0.0,0.0875,0.0156,0.0456,0.434,0.235,123.966,263241.0,4.0
+How Do I Make You Love Me? - Live,72SxWvaYsDgix2N3sjCjT1,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,46,0,False,0.676,0.843,5.0,-8.204,1.0,0.144,0.0793,0.00012,0.355,0.438,123.988,209041.0,4.0
+Can't Feel My Face - Live,47vfGRaXEGzcM2vI7JC2OO,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,45,0,False,0.622,0.847,9.0,-7.003,0.0,0.0778,0.0112,0.00104,0.0916,0.649,121.124,183889.0,4.0
+Take My Breath - Live,02YlAvsmptN8LisZqrWBIb,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,46,0,False,0.588,0.792,0.0,-7.066,0.0,0.0419,0.000573,0.00572,0.907,0.301,124.032,235966.0,4.0
+Hurricane - Live,45ypYpAdgoneWcBT0Wba3p,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,46,0,False,0.217,0.389,2.0,-8.932,0.0,0.039,0.0485,0.0233,0.507,0.129,78.958,127528.0,4.0
+The Hills - Live,6N8W7Dbcsg9tRDxn0wjFkR,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,47,0,True,0.492,0.8,0.0,-5.998,0.0,0.0404,0.000826,0.00352,0.972,0.0748,113.031,185362.0,4.0
+Often - Live,3kdEGx81MR9ftxRbF3Zf84,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,47,0,True,0.451,0.74,8.0,-8.596,0.0,0.0531,0.000425,0.000538,0.595,0.299,142.067,148878.0,4.0
+Crew Love - Live,03H6iCycyxfB2mZzIOEeKJ,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,46,0,True,0.292,0.586,11.0,-8.579,0.0,0.0684,0.0408,0.0,0.533,0.13,159.924,113461.0,3.0
+Starboy - Live,4ZYGm4xWPhsZVijqtpWn4C,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,47,0,True,0.454,0.859,7.0,-8.249,1.0,0.0787,0.0152,0.00377,0.518,0.0726,129.483,245818.0,5.0
+Heartless - Live,0WrIAsGJOei2FGeakvpTDU,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,45,0,True,0.578,0.725,10.0,-7.198,0.0,0.0885,0.0169,0.0,0.404,0.173,169.825,124255.0,4.0
+Low Life - Live,431r2Qg4I2qFIKdSFCJN4s,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,45,0,True,0.463,0.683,0.0,-8.344,0.0,0.0404,0.306,3.55e-05,0.712,0.442,80.01,107257.0,4.0
+Or Nah - Live,6tB01QHgH9YuVA8TomAzni,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,45,0,True,0.538,0.639,8.0,-8.445,0.0,0.101,0.373,0.0,0.248,0.156,135.966,101451.0,4.0
+Kiss Land - Live,2YI8oiiImLkZvVgP33xrjD,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,44,0,True,0.277,0.636,7.0,-7.499,0.0,0.0646,0.0225,0.0,0.838,0.195,76.263,110315.0,4.0
+Party Monster - Live,6knNhL3mIaackJvtjmUrfN,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,46,0,True,0.457,0.629,1.0,-7.035,1.0,0.0379,0.0555,1.14e-05,0.71,0.169,78.899,189884.0,4.0
+Faith - Live,5RlqhZfTao31aQUO2QjpkG,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,45,0,True,0.365,0.569,0.0,-8.715,0.0,0.0554,0.034,0.0,0.534,0.124,175.797,185017.0,4.0
+After Hours - Live,7HK0ZDEsW0lGKKIVYvni2z,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,49,0,False,0.655,0.501,5.0,-7.808,0.0,0.0295,0.0102,2.51e-05,0.155,0.0789,109.039,267913.0,4.0
+Out of Time - Live,6XZ8C5etRn0kiS1wwuW0SO,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,45,0,False,0.643,0.645,11.0,-9.105,0.0,0.0637,0.132,0.0,0.562,0.675,93.074,200934.0,4.0
+Fortnight (feat. Post Malone),2OzhQlSqBEmt7hmkYxfT6m,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,89,1,False,0.504,0.386,11.0,-10.976,1.0,0.0308,0.502,1.53e-05,0.0961,0.281,192.004,228965.0,4.0
+The Tortured Poets Department,3NMrVbIVWT3fPXBj0rNDKG,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,74,0,True,0.604,0.428,0.0,-8.441,1.0,0.0255,0.0483,0.0,0.126,0.292,110.259,293048.0,4.0
+My Boy Only Breaks His Favorite Toys,2XXwLdtuAcE0HSCu61ijAb,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,74,0,False,0.596,0.563,0.0,-7.362,1.0,0.0269,0.137,0.0,0.302,0.481,97.073,203801.0,4.0
+Down Bad,2F3N9tdombb64aW6VtZOdo,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,81,1,True,0.541,0.366,11.0,-10.412,1.0,0.0748,0.56,1e-06,0.0946,0.168,159.707,261228.0,4.0
+"So Long, London",3Vevii7qKqrmW8CcyzBHDl,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,75,0,False,0.423,0.533,9.0,-11.388,1.0,0.322,0.73,0.00264,0.0816,0.248,160.218,262975.0,4.0
+But Daddy I Love Him,5og4Qzt92jJzVDkOtSEilb,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,76,0,True,0.521,0.72,4.0,-7.684,1.0,0.104,0.384,0.0,0.135,0.438,79.943,340428.0,4.0
+Fresh Out The Slammer,3fO566xJgwxIa3qGCGBvIC,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,68,0,False,0.33,0.483,9.0,-9.394,1.0,0.0399,0.624,0.0,0.111,0.34,87.115,210789.0,4.0
+Florida!!! (feat. Florence + The Machine),3ZVFcD8Wlw9T9klGqmJf9F,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,75,0,True,0.533,0.573,0.0,-7.123,1.0,0.138,0.178,0.0,0.309,0.398,150.088,215463.0,4.0
+Guilty as Sin?,0W0iAC1VGlB82PI6elxFYf,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,81,1,False,0.626,0.428,2.0,-8.374,1.0,0.0261,0.607,0.0,0.0921,0.487,94.95,254366.0,3.0
+Who’s Afraid of Little Old Me?,36t6frENUtCYKuZus6aYDO,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,79,0,False,0.606,0.338,0.0,-10.555,1.0,0.048,0.315,0.0,0.106,0.238,119.88,334085.0,4.0
+I Can Fix Him (No Really I Can),2h3MDMf8sd9s4XIzpTBIjX,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,66,0,False,0.661,0.257,6.0,-13.961,0.0,0.045,0.768,1.72e-06,0.176,0.318,106.896,156298.0,4.0
+loml,6RSG1dKPV5gEvILwJb4QtS,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,74,0,True,0.423,0.272,0.0,-12.56,1.0,0.0489,0.858,0.0,0.108,0.195,78.539,277157.0,3.0
+I Can Do It With a Broken Heart,4q5YezDOIPcoLr8R81x9qy,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,87,1,True,0.701,0.751,0.0,-8.39,1.0,0.0502,0.123,0.0,0.15,0.22,129.994,218005.0,4.0
+The Smallest Man Who Ever Lived,2v1ivOOsgn64g5OywuH55L,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,72,0,True,0.426,0.41,10.0,-9.083,1.0,0.0581,0.52,0.0,0.338,0.263,142.377,245542.0,1.0
+The Alchemy,1dhMTsEZz6ZEquGvmzVoHn,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,73,0,False,0.64,0.421,0.0,-8.802,1.0,0.0273,0.422,0.0,0.103,0.353,100.056,196900.0,4.0
+Clara Bow,1UlhrRvYzbHEyugEDspXUB,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,65,0,False,0.686,0.318,7.0,-11.046,1.0,0.0263,0.636,0.00144,0.106,0.214,104.088,216662.0,4.0
+Sunrise,6Tb7Zfo4PcSiS4TqQ4NnTh,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,58,0,False,0.146,0.216,9.0,-12.302,1.0,0.0399,0.939,0.54,0.0773,0.0341,78.045,151093.0,4.0
+Church,1e8D1BCD2afT56Km7UahpB,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,51,0,False,0.449,0.736,11.0,-6.98,0.0,0.0368,0.00865,0.145,0.147,0.133,123.973,230013.0,4.0
+Trouble In Town,45PqOIkZ9PdCjsCJQYzx9G,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,48,0,True,0.595,0.315,2.0,-11.456,0.0,0.0296,0.427,0.648,0.111,0.336,96.018,278907.0,4.0
+BrokEn,1cXXhzPnbrXjNQYbLdUJdy,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,46,0,False,0.55,0.271,5.0,-11.836,1.0,0.0495,0.923,0.0,0.147,0.521,130.151,150200.0,4.0
+Daddy,3pcPPhPAiurm2Ior11SHrz,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,58,0,False,0.633,0.18,1.0,-19.54,1.0,0.034,0.931,0.801,0.513,0.2,116.981,298320.0,4.0
+WOTW / POTP,7jib2tJjQ82kTIZZATMvAK,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,44,0,False,0.692,0.294,10.0,-15.483,1.0,0.248,0.935,0.929,0.116,0.802,133.686,76933.0,4.0
+Arabesque,0ZlVUhjO8c0bOx1D2Btznf,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,57,0,True,0.401,0.834,7.0,-7.727,1.0,0.055,0.000114,0.849,0.373,0.163,172.009,340280.0,4.0
+When I Need A Friend,0UvUivL70eDwhTWBd8S38I,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,45,0,False,0.141,0.28,1.0,-18.225,1.0,0.0618,0.921,0.368,0.135,0.434,64.501,155000.0,4.0
+Guns,6VzRvCbolqcUswaSPm48rI,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,43,0,True,0.475,0.565,10.0,-8.336,1.0,0.0326,0.775,0.188,0.138,0.708,85.25,115080.0,3.0
+Orphans,03T4ttRCiLXST6MZjeMwmR,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,66,0,False,0.503,0.808,11.0,-5.051,0.0,0.0451,0.0258,0.00149,0.557,0.282,107.973,197533.0,4.0
+Èkó,2HUtNS9qtfgWbnaagK6AAe,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,48,0,False,0.341,0.365,7.0,-13.871,1.0,0.0322,0.722,0.00194,0.184,0.0486,182.995,157867.0,3.0
+Cry Cry Cry,4Kwhm5VU4huxmQtBqd1AXo,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,50,0,False,0.491,0.262,8.0,-10.458,1.0,0.0572,0.89,0.288,0.207,0.338,204.52,167280.0,3.0
+Old Friends,3E3zYgQul8EaJioNvD2tv9,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,55,0,False,0.476,0.18,5.0,-17.499,1.0,0.0346,0.943,0.235,0.138,0.236,134.025,146947.0,5.0
+بنی آدم,6DGzLNiawTtntC9NHzeMeY,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,44,0,False,0.393,0.301,7.0,-20.428,1.0,0.0497,0.758,0.764,0.161,0.0384,140.438,194667.0,3.0
+Champion Of The World,6mf7BNgXs8JipPr2QILnyN,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,60,0,False,0.503,0.594,7.0,-7.095,1.0,0.0263,0.00276,0.0102,0.109,0.168,108.9,257547.0,4.0
+Everyday Life,0h9fnCSnbUgOEgibnQByFv,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Everyday Life,62,0,False,0.512,0.452,2.0,-8.991,1.0,0.0292,0.775,0.0818,0.065,0.235,124.103,258533.0,4.0
+Wrong Ones (Feat. Tim McGraw),2CIXO1jQbrV1hlfI7FUKld,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,78,1,True,0.476,0.797,0.0,-3.867,1.0,0.0332,0.00552,0.0,0.142,0.601,80.946,195823.0,4.0
+Finer Things (Feat. Hank Williams Jr.),4Kd9tBUgpXv26OfR6ugBv1,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,75,0,False,0.629,0.937,5.0,-3.477,0.0,0.0378,0.00519,0.0,0.389,0.649,123.968,185534.0,4.0
+I Had Some Help (Feat. Morgan Wallen),5IZXB5IKAD2qlvTPJYDCFB,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,81,1,True,0.644,0.874,0.0,-4.723,1.0,0.0265,0.0113,0.0,0.227,0.753,128.017,178206.0,4.0
+Pour Me A Drink (Feat. Blake Shelton),0mNzElhEofvgMWAJoOA4q9,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,76,1,False,0.582,0.909,11.0,-3.834,1.0,0.0342,0.00191,0.0,0.308,0.868,119.033,195123.0,4.0
+Have The Heart (Feat. Dolly Parton),1sqXfPaRD7npnH712RZQAF,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,74,0,False,0.621,0.792,9.0,-2.678,1.0,0.0309,0.0108,0.0,0.272,0.69,116.967,183333.0,4.0
+What Don't Belong To Me,0lJNSfWnwJMIh94Dv9jQUt,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,77,0,False,0.478,0.906,10.0,-5.278,1.0,0.0819,0.0908,0.0,0.145,0.552,169.986,207176.0,4.0
+Goes Without Saying (Feat. Brad Paisley),20hTkA9oKKuxghkRptRczS,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,74,0,False,0.472,0.777,11.0,-5.0,1.0,0.0302,0.00119,0.0,0.0841,0.484,79.036,212353.0,4.0
+Guy For That (Feat. Luke Combs),6StwwqB84sJeLr7tZDTxEX,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,77,1,False,0.611,0.911,8.0,-4.106,1.0,0.0647,0.0061,0.0,0.135,0.495,119.986,164011.0,4.0
+Nosedive (Feat. Lainey Wilson),25uMKq5kygC2woAfeetEfE,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,74,0,False,0.287,0.782,10.0,-2.974,1.0,0.0439,0.108,0.0,0.0825,0.471,154.154,192459.0,4.0
+Losers (Feat. Jelly Roll),0gucUyFMFRMlUiVn9US4YX,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,76,0,False,0.607,0.76,0.0,-4.024,0.0,0.029,0.0292,0.0,0.146,0.414,93.954,209038.0,4.0
+Devil I've Been (Feat. ERNEST),149r4BNMXwFRWjPYcKNNgc,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,73,0,False,0.628,0.795,4.0,-3.334,1.0,0.0271,0.00549,0.0,0.0954,0.813,111.99,182925.0,4.0
+Never Love You Again (Feat. Sierra Ferrell),4rhSYWoLaBbkQccjme9UOJ,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,72,0,False,0.57,0.545,1.0,-4.93,1.0,0.0243,0.132,1.41e-06,0.272,0.344,107.952,186862.0,3.0
+Missin’ You Like This (Feat. Luke Combs),1IzCS4zuowRsXu4YS8caOB,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,74,0,False,0.502,0.707,7.0,-4.894,1.0,0.0268,0.0252,0.0,0.374,0.447,78.984,222782.0,4.0
+California Sober (Feat. Chris Stapleton),1SPI4AlK4121PEQPGSpdcY,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,76,0,True,0.455,0.968,0.0,-3.672,0.0,0.0391,0.00396,2.06e-05,0.24,0.686,92.511,204412.0,4.0
+Hide My Gun (Feat. HARDY),6nf4oqFOsVKLwJPEliYVwT,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,73,0,True,0.506,0.651,7.0,-4.993,1.0,0.0361,0.0351,0.0,0.248,0.338,146.141,220479.0,4.0
+Right About You,7k2nR2eTRVuzAMCXUj3HMv,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,71,0,False,0.442,0.858,5.0,-5.316,1.0,0.0337,0.00606,0.0,0.163,0.724,171.989,183046.0,4.0
+M-E-X-I-C-O (Feat. Billy Strings),3It5ZyIlvFxgrxAkiQLGBR,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,71,0,False,0.597,0.972,1.0,-3.396,1.0,0.0496,0.00996,0.0,0.354,0.607,127.954,155929.0,4.0
+Yours,0DM63CJEklNPKu6kHGyuEl,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,74,0,False,0.514,0.672,5.0,-5.209,1.0,0.0321,0.0873,0.0,0.28,0.331,148.045,199439.0,4.0
+Consideration,6t90Z9XkdsHD8xMxro6KRP,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),69,0,True,0.885,0.584,7.0,-2.102,0.0,0.046,0.0392,4.39e-06,0.0869,0.785,145.002,161067.0,4.0
+James Joint,6K4Co1NQyOnoFEJMkZHkln,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),66,0,True,0.385,0.203,4.0,-11.649,1.0,0.0298,0.66,0.000147,0.27,0.405,134.253,72080.0,4.0
+Kiss It Better,0UHB9METy4VCXNgkcGqHqS,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),78,0,True,0.616,0.806,3.0,-4.8,0.0,0.0488,0.272,0.0,0.0672,0.876,95.028,253080.0,4.0
+Work,72TFWvU3wUYdUuxejTTIzt,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),77,0,True,0.723,0.534,11.0,-6.238,1.0,0.0891,0.0747,0.0,0.0919,0.551,91.974,219320.0,4.0
+Desperado,4mCf3vQf7z0Yseo0RxAi3V,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),69,0,False,0.68,0.609,0.0,-5.222,0.0,0.044,0.323,0.0,0.102,0.325,94.35,186467.0,3.0
+Woo,3HQcsqRjRdruUjkbDSgmVF,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),73,0,True,0.42,0.466,9.0,-5.298,1.0,0.0326,0.054,0.00389,0.298,0.185,115.004,235587.0,4.0
+Needed Me,4pAl7FkDMNBsjykPXo91B3,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),82,1,True,0.697,0.315,5.0,-8.091,0.0,0.234,0.11,0.0,0.0825,0.298,110.872,191600.0,4.0
+"Yeah, I Said It",7eDYNlBwRMeFOZHOZ95dZ1,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),63,0,True,0.509,0.38,7.0,-7.479,1.0,0.158,0.547,1.21e-06,0.359,0.249,127.867,133080.0,4.0
+Same Ol’ Mistakes,6RtzmszGXs32TRhv5zTKNM,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),62,0,False,0.441,0.802,8.0,-5.417,1.0,0.0443,0.199,0.00287,0.0591,0.51,151.766,397093.0,4.0
+Never Ending,7Jd5LgnSRQElW6FsTWVPzE,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),53,0,False,0.556,0.391,7.0,-9.096,0.0,0.028,0.752,6.7e-05,0.187,0.525,81.826,202507.0,4.0
+Love On The Brain,5oO3drDxtziYU2H1X23ZIp,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),83,1,True,0.509,0.637,4.0,-4.83,0.0,0.047,0.0717,1.08e-05,0.0789,0.379,172.007,224000.0,3.0
+Higher,1KnJwhZU3DIBe54Q4HPpIl,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),58,0,True,0.293,0.566,3.0,-4.189,1.0,0.0413,0.115,0.0,0.119,0.404,153.199,120627.0,3.0
+Close To You,6D2tzc8kRnZb7P1lNwMBLH,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),56,0,False,0.494,0.17,10.0,-11.368,1.0,0.0337,0.895,0.0,0.139,0.145,80.098,223213.0,4.0
+Goodnight Gotham,5LJz7kmFhLqB53tmVWxig5,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),50,0,False,0.42,0.672,0.0,-5.989,0.0,0.0429,0.00686,2.14e-06,0.277,0.353,82.095,88493.0,4.0
+Pose,4UTizOdGljPIIbXtoXycAd,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),50,0,True,0.687,0.852,1.0,-3.153,1.0,0.0894,0.181,0.00135,0.147,0.775,145.885,144227.0,4.0
+Sex With Me,7BiELrM90hRxpozaIXbsLw,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,ANTI (Deluxe),71,0,True,0.58,0.532,1.0,-5.668,0.0,0.0424,0.294,0.0,0.0949,0.391,112.051,206400.0,4.0
+Don't Leave Me Alone (feat. Anne-Marie),4uZBBwJwTJeL3Swlk2ufLr,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,29,0,False,0.688,0.599,4.0,-8.013,0.0,0.0477,0.173,0.0,0.111,0.535,127.988,184311.0,4.0
+Battle (feat. Faouzia),2AVDEZJKknfUOIEipw63D6,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,28,0,False,0.516,0.691,10.0,-4.975,1.0,0.0431,0.0518,0.0,0.238,0.384,160.086,163867.0,4.0
+Flames,3tTYxjYYcXFqFXA0AZ1Fav,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,36,0,False,0.609,0.726,5.0,-4.346,0.0,0.0414,0.0723,8.45e-06,0.0895,0.362,93.958,195000.0,4.0
+Blame It on Love (feat. Madison Beer),0PD9aZgXDHvQIe80xW0fno,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,25,0,True,0.671,0.729,6.0,-7.47,1.0,0.202,0.112,0.0,0.1,0.35,94.955,207147.0,4.0
+Say My Name,3MoV1UsAJmz64LHqyiRMp0,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,54,0,False,0.703,0.66,10.0,-5.119,0.0,0.123,0.137,0.0,0.192,0.79,95.031,198947.0,4.0
+Goodbye (feat. Nicki Minaj & Willy William),1wvSHWV0Z3wX5TrjWXTmTI,Jason Derulo,07YZf4WDAMNwqr4jfgOZ8y,7,24,0,False,0.643,0.904,0.0,-3.694,1.0,0.0739,0.0776,0.0,0.189,0.481,103.028,195419.0,4.0
+I'm That Bitch (feat. Saweetie),2AWhMNiapSSnxP3TB1dt4a,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,24,0,True,0.826,0.834,1.0,-5.856,0.0,0.104,0.012,0.0133,0.12,0.902,122.992,194627.0,4.0
+Like I Do,03IBnHJvOQBr4dy3RguAph,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,34,0,False,0.667,0.871,0.0,-4.905,0.0,0.0343,0.00569,0.00655,0.165,0.187,128.042,201560.0,4.0
+2U (feat. Justin Bieber),6AV43lXbG25nbFji6lEPde,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,0,0,False,0.534,0.613,8.0,-7.41,0.0,0.0591,0.234,0.0,0.227,0.528,144.878,194893.0,4.0
+She Knows How to Love Me (feat. Jess Glynne & Stefflon Don),6cFbC4iK69ZM9em1EolL12,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,27,0,False,0.629,0.676,11.0,-5.413,0.0,0.156,0.112,0.0,0.396,0.441,171.801,181733.0,4.0
+"Motto (feat. Lil Uzi Vert, G-Eazy & Mally Mall)",4LvXQDy62I5MD6JEBZcDXS,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,26,0,False,0.742,0.827,2.0,-5.067,1.0,0.0584,0.052,0.0,0.263,0.654,85.014,149520.0,4.0
+Drive (feat. Delilah Montagu),6lXPxNJVBoIRUitMJZw64Y,Black Coffee,6wMr4zKPrrR0UVz08WtUWc,7,0,0,False,0.711,0.829,11.0,-7.37,0.0,0.037,0.00163,0.0125,0.0809,0.435,118.021,186093.0,4.0
+Para que te quedes (feat. J Balvin),2Gy4jUcTYeFsz4TmavpKYd,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,26,0,False,0.863,0.584,11.0,-4.785,0.0,0.279,0.122,0.0,0.0707,0.698,94.0,178080.0,4.0
+Let It Be Me (feat. Ava Max),01qMOMudbkIHZS9BFPUGNk,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,35,0,False,0.743,0.529,7.0,-6.187,0.0,0.0505,0.128,0.0,0.181,0.438,102.048,172933.0,4.0
+Light Headed,7ruWjzDQymWE7oJfQB9Sj6,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,21,0,False,0.452,0.709,9.0,-6.053,0.0,0.0448,0.0595,0.0,0.124,0.343,139.883,178720.0,4.0
+Reach For Me,1BrtvxRcSpR9GyKzkOY3VY,Jack Back,4bXUaTjc7TQTvLqqCAlfYt,7,17,0,False,0.789,0.896,1.0,-6.588,1.0,0.0574,0.017,0.217,0.101,0.496,124.986,227040.0,4.0
+Freedom,1tNuMRxcaCOdtBB55PhArG,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,7,17,0,False,0.456,0.802,7.0,-7.173,1.0,0.0962,0.00266,0.37,0.122,0.0616,116.497,235160.0,4.0
+Grenade,3fiOVMed1MjJvNrEMWsYN5,Jack Back,4bXUaTjc7TQTvLqqCAlfYt,7,16,0,False,0.627,0.883,0.0,-6.915,1.0,0.081,0.027,0.172,0.0917,0.479,124.0,212893.0,4.0
+Inferno,54GggX1zLUiFYf7ThoJg3l,Jack Back,4bXUaTjc7TQTvLqqCAlfYt,7,17,0,False,0.311,0.734,7.0,-7.74,1.0,0.0641,0.00191,0.898,0.201,0.225,191.814,189373.0,3.0
+Overtone,08YnHPJV403GzBMvyrUVPq,Jack Back,4bXUaTjc7TQTvLqqCAlfYt,7,15,0,False,0.656,0.792,0.0,-6.815,1.0,0.0314,0.00132,0.71,0.113,0.0472,121.002,216187.0,4.0
+Bad Guy,4hsYSKz5gFMiO2q0V4L8m8,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),47,0,True,0.613,0.799,1.0,-3.619,1.0,0.444,0.0686,0.0,0.413,0.377,78.4,434359.0,4.0
+Parking Lot - Skit,7tldUICXp9StZFmayDxv1j,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),41,0,True,0.425,0.83,5.0,-8.808,1.0,0.366,0.528,0.0383,0.784,0.126,141.177,55338.0,4.0
+Rhyme Or Reason,1nB5rEmO17g1MlFEN8KQSd,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),45,0,True,0.853,0.835,9.0,-3.814,1.0,0.244,0.129,0.0,0.0552,0.6,117.004,301721.0,4.0
+So Much Better,7ATSAXVEBlryu2EKOAo0Nh,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),44,0,True,0.72,0.858,10.0,-1.366,0.0,0.25,0.252,0.0,0.628,0.616,84.505,261387.0,4.0
+Survival,5GEehBTspT5vfv3cGDoaDi,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),45,0,True,0.459,0.899,2.0,-2.978,1.0,0.21,0.0038,0.0,0.126,0.436,176.386,272417.0,4.0
+Legacy,2DDdr4anGxoayDBoJEpK7j,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),44,0,True,0.664,0.899,9.0,-3.711,0.0,0.474,0.276,0.0,0.197,0.534,164.125,296269.0,4.0
+Asshole,2zSWsOolR5LkAoGapAh8mJ,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),43,0,True,0.534,0.91,1.0,-2.316,1.0,0.346,0.471,0.0,0.782,0.488,174.059,288984.0,4.0
+Berzerk,2UJfBtaGdp3cUPETLhlPKL,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),45,0,True,0.738,0.872,2.0,-4.059,1.0,0.332,0.0216,0.0,0.26,0.674,95.06,238746.0,4.0
+Rap God,1eKZjOja6i7iKS7N2Bzj8D,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),47,0,True,0.709,0.843,7.0,-2.66,1.0,0.314,0.395,0.0,0.799,0.625,148.134,363521.0,4.0
+Brainless,7bduXtI62rKp25DkU0092J,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),42,0,True,0.7,0.935,9.0,-1.449,1.0,0.385,0.186,0.0,0.323,0.589,172.101,286526.0,4.0
+Stronger Than I Was,78bmr5QI4GvyDbGGnaa4WP,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),41,0,True,0.781,0.6,1.0,-5.427,1.0,0.108,0.122,0.0,0.148,0.322,121.997,336519.0,4.0
+The Monster,00bLSnliElWSOs1Ybt9dZm,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),45,0,True,0.781,0.853,1.0,-3.68,0.0,0.0714,0.0526,0.0,0.12,0.626,110.046,250189.0,4.0
+So Far...,6npBv8PhiZH8l6g4YPclhh,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),40,0,True,0.853,0.934,11.0,-3.497,0.0,0.364,0.202,0.0,0.223,0.708,98.017,317581.0,4.0
+Love Game,6HPH4AuWHXbTX2uiGWjb3v,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),42,0,True,0.766,0.941,9.0,-2.546,1.0,0.18,0.36,0.0,0.586,0.707,105.52,296953.0,4.0
+Headlights,646BWucPUyiqL1kgN3jOll,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),41,0,True,0.688,0.782,11.0,-3.683,1.0,0.158,0.151,0.0,0.803,0.453,146.324,343032.0,4.0
+Evil Twin,4o8k31gvFXwsuJT08prT7N,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),39,0,True,0.648,0.91,4.0,-4.764,0.0,0.361,0.0525,0.0,0.0868,0.773,83.092,356847.0,4.0
+Baby,6Jiugs1FQWhP13yxnke3CK,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),38,0,True,0.774,0.889,9.0,-5.048,0.0,0.345,0.593,0.0,0.16,0.819,93.765,263359.0,4.0
+Desperation,2wWoQSkztkPRfOVja8KKse,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),38,0,True,0.709,0.923,2.0,-2.449,1.0,0.248,0.176,0.0,0.065,0.661,143.987,236659.0,4.0
+Groundhog Day,6jReB7746zm66rQtNETHuT,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),38,0,True,0.732,0.792,1.0,-1.865,1.0,0.239,0.324,0.0,0.71,0.561,81.972,293423.0,4.0
+Beautiful Pain,4pQXrA1W9QMBxCEG1KnrNJ,Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Marshall Mathers LP2 (Expanded Edition),42,0,True,0.676,0.827,11.0,-4.121,0.0,0.411,0.0303,0.0,0.132,0.427,165.484,265025.0,4.0
+24K Magic,6b8Be6ljOzmkOmFslEb23P,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,24K Magic,81,1,False,0.818,0.803,1.0,-4.282,1.0,0.0797,0.034,0.0,0.153,0.632,106.97,225983.0,4.0
+Chunky,0mBKv9DkYfQHjdMcw2jdyI,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,24K Magic,68,0,False,0.571,0.539,5.0,-4.446,0.0,0.116,0.0208,0.0,0.125,0.727,202.103,186973.0,4.0
+Perm,1I6pKIyaBp4OebTGLJpCCC,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,24K Magic,63,0,False,0.853,0.871,8.0,-3.715,1.0,0.0851,0.0145,6.84e-05,0.198,0.863,124.021,210053.0,4.0
+That's What I Like,0KKkJNfGyhkQ5aFogxQAPU,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,24K Magic,87,1,False,0.853,0.56,1.0,-4.961,1.0,0.0406,0.013,0.0,0.0944,0.86,134.066,206693.0,4.0
+Versace on the Floor,0kN8xEmgMW9mh7UmDYHlJP,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,24K Magic,79,0,False,0.578,0.574,2.0,-6.209,1.0,0.0454,0.196,0.0,0.083,0.301,174.152,261240.0,4.0
+Straight up & Down,2mrZYZGmPFV3QOyYPZ1zsn,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,24K Magic,64,0,False,0.552,0.733,3.0,-6.898,0.0,0.0933,0.0209,0.0,0.0858,0.643,143.56,198187.0,4.0
+Calling All My Lovelies,6ObpR8ek44tvWefQRcSo8K,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,24K Magic,62,0,False,0.662,0.705,1.0,-6.56,0.0,0.0399,0.0392,2.38e-06,0.105,0.865,159.996,250080.0,4.0
+Finesse,5XMkENs3GfeRza8MfVAhjK,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,24K Magic,71,0,False,0.741,0.798,5.0,-5.342,0.0,0.0718,0.00781,0.0,0.0232,0.939,104.953,191000.0,4.0
+Too Good to Say Goodbye,0B0tYbVp7pDQAqKDhgMeaL,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,24K Magic,67,0,False,0.587,0.63,2.0,-6.054,1.0,0.0311,0.0389,0.0,0.35,0.433,76.97,281827.0,4.0
+intro (end of the world),2o1pb13quMReXZqE7jWsgq,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine,83,1,True,0.506,0.362,10.0,-9.48,1.0,0.0416,0.67,0.0,0.176,0.385,84.726,92400.0,4.0
+bye,1Rweq7vNjK4kZBbGrmxQsl,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine,77,0,False,0.606,0.645,2.0,-4.835,0.0,0.0333,0.204,0.0,0.14,0.453,110.016,164927.0,4.0
+don't wanna break up again,0o3ua5ufFK7nfRzbDUNoGA,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine,72,0,True,0.513,0.73,9.0,-5.09,0.0,0.253,0.397,0.0,0.113,0.574,129.3,174006.0,5.0
+Saturn Returns Interlude,13jRSCLoWbCoU1XEdJRbgn,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine,65,0,False,0.533,0.38,6.0,-13.588,0.0,0.107,0.902,0.000281,0.139,0.845,123.316,42167.0,5.0
+eternal sunshine,3RwWW7KeVhHGayYJgUL5eZ,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine,75,0,False,0.654,0.503,9.0,-7.065,1.0,0.0982,0.533,0.0,0.101,0.347,160.011,210200.0,4.0
+supernatural,142PiXzA84lmEw2RstFHFa,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine,74,0,False,0.58,0.714,8.0,-6.924,1.0,0.117,0.0969,0.0,0.16,0.522,76.496,163382.0,4.0
+true story,14kyXBpg91RVq8bNRDS1q2,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine,70,0,False,0.698,0.53,9.0,-6.136,0.0,0.086,0.468,7.6e-06,0.313,0.423,137.954,163278.0,4.0
+the boy is mine,0Lmbke3KNVFXtoH2mMSHCw,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine,85,1,True,0.795,0.63,7.0,-5.854,0.0,0.0434,0.157,0.0,0.0732,0.447,97.998,173640.0,4.0
+"yes, and?",5D34wRmbFS29AjtTOP2QJe,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine,79,1,True,0.787,0.775,1.0,-6.614,1.0,0.0548,0.19,6.54e-05,0.113,0.787,118.998,214994.0,4.0
+we can't be friends (wait for your love),51ZQ1vr10ffzbwIjDCwqm4,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine,89,1,False,0.645,0.646,5.0,-8.334,1.0,0.0427,0.0615,3.04e-05,0.074,0.295,115.842,228639.0,4.0
+i wish i hated you,5cQX9BexkPIEESTZijJhXg,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine,70,0,False,0.561,0.244,7.0,-9.152,1.0,0.0328,0.837,0.0,0.111,0.278,65.418,153633.0,4.0
+imperfect for you,6XXKB32Om6WuXg3uEWwTob,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine,70,0,True,0.624,0.38,4.0,-7.426,1.0,0.0301,0.496,0.0,0.437,0.251,150.14,182567.0,3.0
+ordinary things (feat. Nonna),4mHM5d2fK3n8xgymjf92w2,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine,66,0,False,0.702,0.552,6.0,-8.261,1.0,0.0647,0.729,0.0,0.332,0.296,114.991,168500.0,4.0
+Virginia Beach,3eP13S8D5m2cweMEg3ZDed,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,72,0,True,0.402,0.514,1.0,-7.322,0.0,0.0471,0.106,0.0,0.181,0.2,120.009,251095.0,4.0
+Amen (feat. Teezo Touchdown),0Mrnt1YqVuW2bqmwu4VxDt,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,60,0,True,0.646,0.605,0.0,-7.59,1.0,0.188,0.0636,0.0,0.253,0.309,90.156,141213.0,3.0
+Calling For You (feat. 21 Savage),2nibvvDdAQkVraYP00z2RS,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,63,0,True,0.571,0.55,0.0,-6.567,1.0,0.106,0.0548,0.0,0.179,0.104,120.947,285630.0,4.0
+Fear Of Heights,53KaP77tkliz36LPxWGlWK,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,62,0,True,0.697,0.32,7.0,-9.347,0.0,0.214,0.0127,0.0,0.18,0.0658,136.976,155154.0,4.0
+Daylight,4ZT0wGKwlJRjpMUuwZVy3p,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,64,0,True,0.566,0.564,10.0,-7.88,0.0,0.277,0.0149,0.0,0.104,0.0667,139.92,164143.0,4.0
+First Person Shooter (feat. J. Cole),7aqfrAY2p9BUSiupwk3svU,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,77,0,True,0.475,0.655,11.0,-7.342,0.0,0.33,0.0306,0.0,0.375,0.245,163.997,247444.0,4.0
+IDGAF (feat. Yeat),2YSzYUF3jWqb9YP9VXmpjE,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,79,1,True,0.673,0.672,8.0,-8.577,1.0,0.224,0.0466,0.000284,0.193,0.14,136.902,260111.0,4.0
+7969 Santa,1GpWY5RiInhezB8wGWs6oN,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,60,0,True,0.487,0.49,10.0,-9.373,0.0,0.0649,0.554,0.0,0.126,0.325,141.389,259847.0,4.0
+Slime You Out (feat. SZA),0AYt6NMyyLd0rLuvr0UkMH,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,67,0,True,0.483,0.408,5.0,-9.243,0.0,0.0502,0.508,0.0,0.259,0.105,88.88,310491.0,3.0
+Bahamas Promises,3JZjcKImHcmOI9ylL4zrSc,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,64,0,True,0.626,0.309,1.0,-10.397,1.0,0.0433,0.85,1.31e-05,0.117,0.369,117.94,184090.0,4.0
+Tried Our Best,3IHt4j5uAEl7iBu8Utn985,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,65,0,True,0.57,0.295,8.0,-13.693,0.0,0.0445,0.837,0.0,0.167,0.231,84.139,209991.0,3.0
+Screw The World - Interlude,0ArVfVP8B5svkfj8clHNzB,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,50,0,True,0.823,0.642,1.0,-5.922,1.0,0.258,0.0644,0.714,0.105,0.629,146.781,112093.0,4.0
+Drew A Picasso,03rwnftfgpYVO6QDWOZcG6,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,63,0,True,0.709,0.377,7.0,-11.327,1.0,0.219,0.334,0.0,0.176,0.147,127.921,262769.0,4.0
+Members Only (feat. PARTYNEXTDOOR),24FUBxaAYSBlWsbSnEzDcn,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,66,0,True,0.647,0.34,2.0,-8.795,0.0,0.0496,0.245,0.0,0.107,0.176,91.998,277721.0,4.0
+What Would Pluto Do,1DAibqbopEYULPEtE8WHTE,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,63,0,True,0.832,0.555,10.0,-7.766,0.0,0.116,0.0506,0.0,0.213,0.473,95.618,182998.0,4.0
+All The Parties (feat. Chief Keef),1PIgY9ybyFT9uWLM5POYGY,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,62,0,True,0.572,0.406,0.0,-10.081,0.0,0.308,0.543,0.0,0.0982,0.226,125.019,218612.0,4.0
+8am in Charlotte,0w3Mfe4PIVjuFjJbe3OlYv,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,67,0,True,0.567,0.682,4.0,-6.423,1.0,0.274,0.643,0.0,0.512,0.668,79.043,266848.0,4.0
+BBL Love - Interlude,1mjAD7IYvI5UGiB7WnppMf,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,56,0,True,0.502,0.391,4.0,-9.013,1.0,0.0428,0.845,0.0,0.112,0.574,132.819,161364.0,4.0
+Gently (feat. Bad Bunny),6ZprqcYFC6D9eIZaCoqrSn,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,68,0,True,0.868,0.452,7.0,-6.825,0.0,0.304,0.0481,0.000182,0.133,0.241,107.538,133694.0,4.0
+Rich Baby Daddy (feat. Sexyy Red & SZA),1yeB8MUNeLo9Ek1UEpsyz6,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs,81,1,True,0.636,0.729,2.0,-4.495,1.0,0.055,0.0458,0.0,0.384,0.141,146.009,319192.0,4.0
+emails i can’t send,2qLyo5FeWquE7HBUbcVnEy,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,emails i can't send,73,0,True,0.515,0.387,7.0,-10.614,1.0,0.192,0.757,0.0,0.622,0.408,86.313,104408.0,3.0
+Vicious,6Alp15t6urC4opjJiyOqZu,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,emails i can't send,71,0,True,0.721,0.457,0.0,-6.916,1.0,0.159,0.308,0.0,0.258,0.63,129.98,149891.0,4.0
+Read your Mind,4Wos0h9ECU2Z3oJMTQxpbc,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,emails i can't send,76,0,False,0.672,0.803,3.0,-5.061,0.0,0.049,0.0111,0.0,0.0782,0.578,120.058,207850.0,4.0
+Tornado Warnings,5kcuHw8WtxauIWI5crMcLM,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,emails i can't send,65,0,True,0.7,0.571,3.0,-7.713,1.0,0.0591,0.171,0.0,0.0938,0.579,115.036,204180.0,4.0
+because i liked a boy,32FhTAAjKZaBein150o3Px,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,emails i can't send,82,1,True,0.386,0.592,11.0,-7.299,1.0,0.374,0.363,0.0,0.117,0.161,146.879,196458.0,4.0
+Already Over,5QhJorJmjqYfETfqgBtGg3,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,emails i can't send,69,0,False,0.546,0.788,4.0,-7.109,1.0,0.543,0.434,0.0,0.121,0.468,113.582,170827.0,4.0
+how many things,4yC3v03vIGfmV6Rag568mV,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,emails i can't send,57,0,True,0.518,0.227,11.0,-9.457,1.0,0.0354,0.902,0.0,0.367,0.571,81.174,243880.0,4.0
+bet u wanna,1RAeuvRyRzCweAK3jUT0ZW,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,emails i can't send,64,0,False,0.589,0.632,11.0,-6.818,0.0,0.16,0.0121,0.0,0.403,0.46,102.311,191025.0,4.0
+Nonsense,6dgUya35uo964z7GZXM07g,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,emails i can't send,88,1,False,0.74,0.697,8.0,-4.912,1.0,0.034,0.0268,0.0,0.224,0.732,138.992,163648.0,4.0
+Fast Times,6n05BgVkxxz2k5ICZYa2PH,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,emails i can't send,68,0,True,0.721,0.666,1.0,-4.699,0.0,0.0408,0.0687,0.0,0.045,0.739,132.465,174540.0,4.0
+skinny dipping,1ZvbLYAXwvMfaPtN65QF2D,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,emails i can't send,59,0,False,0.452,0.536,4.0,-8.864,1.0,0.14,0.261,0.0,0.14,0.426,122.375,177751.0,5.0
+Bad for Business,38bbpkFcxgjupISR0K94UU,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,emails i can't send,61,0,False,0.601,0.538,7.0,-8.705,1.0,0.0406,0.364,0.0,0.131,0.593,107.973,188338.0,4.0
+decode,17wMOhLqVB3DRCmTaLjwVM,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,emails i can't send,60,0,False,0.591,0.368,4.0,-9.235,1.0,0.0414,0.687,0.0,0.0847,0.423,122.161,188167.0,4.0
+2 Much,1gjmPHYd1SoEmsj8Rd15MC,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,40,0,False,0.583,0.444,9.0,-8.601,1.0,0.0456,0.593,0.0,0.353,0.167,119.59,152796.0,4.0
+Deserve You,3G1OkwOwT7rQpjxooDgApO,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,39,0,False,0.677,0.633,7.0,-7.831,1.0,0.0771,0.0314,0.0,0.112,0.409,89.934,187239.0,4.0
+As I Am (feat. Khalid),5taMOY6HlxpEqUyhM1bFu2,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,40,0,False,0.595,0.543,11.0,-8.149,1.0,0.038,0.127,0.0,0.0975,0.109,99.928,174406.0,4.0
+Off My Face,3hQnKdzsVzF0eEauZAnpvl,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,43,0,False,0.509,0.228,4.0,-8.68,1.0,0.0332,0.92,0.0,0.104,0.586,90.674,156468.0,4.0
+Holy (feat. Chance The Rapper),6nPbYhCg1L6abGsy6bKylA,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,39,0,False,0.67,0.693,6.0,-8.34,1.0,0.35,0.2,0.0,0.0909,0.388,87.017,212093.0,4.0
+Unstable (feat. The Kid LAROI),3ppFZ3cYXbi0T8tUJDNx7Q,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,39,0,False,0.495,0.333,4.0,-10.109,0.0,0.0288,0.737,0.0,0.112,0.37,99.757,158324.0,4.0
+MLK Interlude,2dq9vLM5T9VUO4KpSZKTD1,-,28QlAisHETVQGqLPDfo3eC,Justice - Triple Chucks Deluxe,32,0,False,0.649,0.429,10.0,-8.428,0.0,0.468,0.386,0.0,0.311,0.426,100.389,104008.0,3.0
+Die For You (feat. Dominic Fike),2gBPZEtW6sxFHHa7TL4jd0,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,38,0,False,0.728,0.629,1.0,-6.629,1.0,0.0318,0.00196,1.94e-06,0.0847,0.71,135.031,198426.0,4.0
+Hold On,1woTc5oI7Eqj8thvGfdsxw,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,41,0,False,0.658,0.634,1.0,-6.068,0.0,0.0431,0.0104,0.0,0.12,0.302,140.002,170813.0,4.0
+Somebody,5rqtv4ydUZIztLYmtfArOf,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,38,0,False,0.551,0.756,2.0,-7.679,1.0,0.045,0.000284,9.48e-05,0.118,0.359,75.991,179415.0,4.0
+Ghost,3mVZMDBFT5EjUut8wcRFHx,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,43,0,False,0.601,0.741,2.0,-5.569,1.0,0.0478,0.185,2.91e-05,0.415,0.441,153.96,153190.0,4.0
+Peaches (feat. Daniel Caesar & Giveon),3wKpoOfaQaxdnalXMqSPpO,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,43,0,True,0.677,0.696,0.0,-6.181,1.0,0.119,0.321,0.0,0.42,0.464,90.03,198082.0,4.0
+Love You Different (feat. BEAM),0Zmkb0nqXMqpUgJQrXXHnb,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,37,0,False,0.759,0.584,8.0,-6.655,1.0,0.06,0.0652,1.59e-06,0.16,0.374,127.138,186696.0,4.0
+Loved By You (feat. Burna Boy),3vw444I3uzqwcEryeh5Z6H,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,38,0,False,0.79,0.724,1.0,-6.972,1.0,0.0852,0.0696,2.33e-06,0.113,0.642,101.04,159250.0,4.0
+Anyone,0lNotCAaSDP4itCAtEE7My,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,39,0,False,0.685,0.521,2.0,-8.285,1.0,0.0345,0.185,3.59e-06,0.111,0.578,115.885,190779.0,4.0
+Lonely (with benny blanco),3353R7ZeupOP7Rp7o94mqa,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,37,0,True,0.619,0.241,11.0,-7.102,0.0,0.046,0.9,0.0,0.116,0.0719,79.461,149190.0,4.0
+There She Go (feat. Lil Uzi Vert),7i2xVGqiF5FBPvLg6PLHX3,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,51,0,False,0.725,0.716,9.0,-5.448,1.0,0.0349,0.00945,0.0,0.119,0.904,150.074,215020.0,4.0
+I Can't Be Myself (feat. Jaden),4C9pETarpQoI5ODtx6My41,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,45,0,False,0.704,0.659,3.0,-5.959,1.0,0.0315,0.00197,3.36e-06,0.141,0.542,120.064,193360.0,4.0
+Lifetime,10Z9RbwrTbQ0gQeNRJ2dC1,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,57,0,False,0.48,0.274,2.0,-7.083,1.0,0.0317,0.771,0.0,0.114,0.332,179.637,207020.0,3.0
+Wish You Would (feat. Quavo),4pIC8i4jv9HT1CPH2aGbw3,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justice - Triple Chucks Deluxe,43,0,True,0.628,0.702,7.0,-4.918,1.0,0.0327,0.0328,0.0,0.0811,0.444,139.968,241392.0,4.0
+Intro,3rWepjMBxRG7J3ikhmN6X2,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,34,0,False,0.418,0.22,10.0,-13.92,1.0,0.0288,0.868,0.981,0.113,0.665,144.052,39938.0,1.0
+New Money (with 21 Savage),561ANIxwuIDp8n8teVXQiJ,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,43,0,True,0.876,0.821,6.0,-5.982,1.0,0.0611,0.244,1.54e-05,0.0595,0.777,92.001,168663.0,4.0
+Potion (with Dua Lipa & Young Thug),3h8tI65xdfpQyTAy7Grqwa,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,53,0,True,0.824,0.697,11.0,-4.869,0.0,0.0473,0.158,4.11e-05,0.0751,0.757,99.987,215216.0,4.0
+"Woman Of The Year (with Stefflon Don, Chlöe & Coi Leray)",2Tg6UGiplOTWZalFj1eY6y,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,41,0,True,0.808,0.816,8.0,-4.3,0.0,0.0463,0.368,0.00123,0.306,0.962,96.982,206136.0,4.0
+Obsessed (with Charlie Puth & Shenseea),0b5CzUhyShYuDdtW5J4wm2,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,54,0,True,0.733,0.74,1.0,-6.343,0.0,0.0333,0.246,3.3e-05,0.299,0.903,99.993,226497.0,4.0
+"New To You (with Normani, Tinashe & Offset)",5Axapk6xMmSHK2A75EZiYo,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,51,0,True,0.728,0.707,8.0,-5.09,1.0,0.0435,0.371,0.00107,0.138,0.802,96.017,302613.0,4.0
+Ready Or Not (with Busta Rhymes),13xxAy6jr030o2cCMv5MTX,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,35,0,True,0.568,0.89,11.0,-4.787,0.0,0.281,0.469,3.92e-06,0.278,0.924,106.032,157046.0,4.0
+"Stay With Me (with Justin Timberlake, Halsey & Pharrell)",6clzeGvi1CFioMOolbAOlX,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,53,0,False,0.81,0.733,9.0,-6.338,1.0,0.0444,0.276,6.73e-06,0.288,0.9,125.975,229283.0,4.0
+"Stay With Me (Part 2) (with Justin Timberlake, Halsey & Pharrell)",6S8hzeDFZmsJbQCO3w97Zz,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,37,0,False,0.718,0.88,11.0,-6.137,0.0,0.0351,0.0245,0.00386,0.263,0.927,126.002,83736.0,4.0
+Somebody Else (with Jorja Smith & Lil Durk),5BchaCO4QMiAIugGp5UpUX,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,38,0,True,0.707,0.78,10.0,-3.881,0.0,0.0304,0.253,1.16e-06,0.35,0.951,89.986,178561.0,4.0
+Nothing More To Say (with 6LACK & Donae’o),4hvWEdTLJxrZsDDjUEcHvy,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,45,0,False,0.799,0.726,5.0,-5.596,0.0,0.0369,0.287,6.83e-05,0.255,0.87,109.983,233974.0,4.0
+Live My Best Life (with Snoop Dogg & Latto),7gqlF5gGTO4aSZV2HPkYwm,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,35,0,True,0.755,0.629,7.0,-5.665,0.0,0.0654,0.604,4.93e-06,0.117,0.908,144.003,163481.0,4.0
+Lean On Me (with Swae Lee),3LXkyXoIBjRjq2Cx3RJHHb,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,39,0,True,0.47,0.593,4.0,-6.12,1.0,0.0518,0.417,0.0,0.171,0.525,79.578,232997.0,4.0
+Day One (with Pharrell & Pusha T),2wgbyESBZ7xBkxYN2bSDOL,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Funk Wav Bounces Vol. 2,36,0,True,0.732,0.653,9.0,-7.921,0.0,0.206,0.616,0.0,0.149,0.931,89.946,200377.0,4.0
+End Of An Era,1YrY0vjHWp672gt0crtj5A,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Radical Optimism,70,0,False,0.661,0.818,0.0,-5.814,1.0,0.0557,0.116,0.0,0.166,0.772,117.045,196219.0,4.0
+Houdini,6D8y7Bck8h11byRY88Pt2z,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Radical Optimism,82,1,False,0.744,0.789,9.0,-4.876,0.0,0.059,0.0036,0.00144,0.0947,0.866,116.985,185918.0,4.0
+Training Season,5b5cPscqVEMChvDqscVw26,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Radical Optimism,82,1,False,0.812,0.587,5.0,-4.483,0.0,0.0477,0.0349,2.64e-06,0.123,0.664,123.041,209488.0,4.0
+These Walls,7b6sWLSnbZhSIeqNGrJ4py,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Radical Optimism,74,0,True,0.731,0.725,1.0,-5.117,1.0,0.0349,0.0361,2.49e-05,0.106,0.739,123.01,217784.0,4.0
+Whatcha Doing,6bAkr9wkQyPM4IDrP4tuwR,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Radical Optimism,66,0,False,0.693,0.8,5.0,-3.749,0.0,0.0637,0.0199,1e-06,0.106,0.764,104.999,198199.0,4.0
+French Exit,7nFYnsLIX8EhyFJcPgdIDX,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Radical Optimism,62,0,False,0.7,0.59,9.0,-6.54,1.0,0.0475,0.0149,2.05e-05,0.0742,0.762,106.974,201287.0,4.0
+Illusion,5q0EXnBYyeCdXD72FzJxH0,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Radical Optimism,77,1,False,0.679,0.772,8.0,-4.721,0.0,0.0472,0.0277,2.59e-06,0.106,0.709,126.964,188143.0,4.0
+Falling Forever,1DiVt4mPAMzbv2N2Yywxs1,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Radical Optimism,64,0,False,0.647,0.826,6.0,-5.466,0.0,0.0867,0.0181,7.23e-06,0.118,0.346,129.954,223096.0,4.0
+Anything For Love,1yg0jZwJIsmG7a2TqPIv7z,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Radical Optimism,60,0,False,0.608,0.398,7.0,-9.088,1.0,0.202,0.586,0.0,0.39,0.422,118.243,141783.0,4.0
+Maria,4tqOaLJdXjWi4OaFSKIT2R,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Radical Optimism,62,0,False,0.707,0.575,1.0,-7.098,0.0,0.0376,0.13,0.0,0.271,0.366,127.009,187682.0,4.0
+Happy For You,05oC2UvKDcx0cY2wg9gzKC,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Radical Optimism,66,0,False,0.59,0.705,3.0,-6.057,1.0,0.035,0.0156,0.0,0.158,0.327,120.04,245681.0,4.0
+Black Panther,5qN4HFkapdAOV94XPryVof,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,51,0,True,0.619,0.582,1.0,-9.454,1.0,0.297,0.625,3.84e-06,0.265,0.48,90.035,130613.0,4.0
+All The Stars (with SZA),3GCdLUSnKSMJhs4Tj6CV3s,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,86,1,True,0.695,0.633,8.0,-4.946,1.0,0.0599,0.0612,0.000195,0.0926,0.557,96.782,232187.0,4.0
+X (with 2 Chainz & Saudi),4LmAnpjlhWTahvRkYR8xJa,ScHoolboy Q,5IcR3N7QB1j6KBL8eImZ8m,Black Panther The Album Music From And Inspired By,60,1,True,0.776,0.471,2.0,-8.406,1.0,0.253,0.0203,0.0,0.268,0.405,131.018,267427.0,4.0
+The Ways (with Swae Lee),5jyyPsIGM2yqkZN9R3TmvN,Khalid,6LuN9FCkKOj5PcnpouEgny,Black Panther The Album Music From And Inspired By,59,0,True,0.727,0.719,11.0,-5.856,0.0,0.049,0.0622,1.16e-06,0.229,0.589,140.08,238893.0,4.0
+Opps (with Yugen Blakrok),7bUcBztfGqO7cSI2gMZeCI,Vince Staples,68kEuyFKyqrdQQLLsmiatm,Black Panther The Album Music From And Inspired By,51,0,True,0.706,0.775,1.0,-6.819,1.0,0.335,0.152,3.4e-05,0.416,0.848,127.929,180893.0,4.0
+I Am,0DJBgBiYeSn6n1AXAkFVE8,Jorja Smith,1CoZyIx7UvdxT5c8UkMzHd,Black Panther The Album Music From And Inspired By,54,0,True,0.601,0.582,8.0,-5.725,0.0,0.264,0.143,9.78e-05,0.183,0.315,148.776,208760.0,4.0
+Paramedic!,2tPcTFiQF9MbVUyjZ3zDhA,SOB X RBE,2TImI3DW7o5MdRXJs4D37h,Black Panther The Album Music From And Inspired By,60,1,True,0.856,0.653,1.0,-5.324,1.0,0.143,0.178,0.0,0.193,0.471,97.017,219307.0,4.0
+Bloody Waters (with Anderson .Paak & James Blake),4KXwFI9pgJLpUIAc9oSL8j,Ab-Soul,0g9vAlRPK9Gt3FKCekk4TW,Black Panther The Album Music From And Inspired By,49,1,True,0.507,0.606,8.0,-8.758,1.0,0.452,0.184,0.0,0.174,0.202,180.593,272307.0,4.0
+"King's Dead (with Kendrick Lamar, Future & James Blake)",1eLSF6HfrRA0AsNmTkUlKx,Jay Rock,28ExwzUQsvgJooOI0X1mr3,Black Panther The Album Music From And Inspired By,59,0,True,0.566,0.724,1.0,-4.573,1.0,0.323,0.00104,0.0,0.158,0.408,81.772,225267.0,4.0
+Redemption Interlude,4FpfU1O7WCLBnmwu5XAFk4,Zacari,3qBKjEOanahMxlRojwCzhI,Black Panther The Album Music From And Inspired By,45,1,True,0.55,0.449,9.0,-13.645,0.0,0.103,0.656,4.8e-05,0.0866,0.222,121.164,85267.0,4.0
+Redemption (with Babes Wodumo),76iVOVsliCHlWqKuDnCfhE,Zacari,3qBKjEOanahMxlRojwCzhI,Black Panther The Album Music From And Inspired By,50,1,True,0.778,0.764,11.0,-7.175,0.0,0.127,0.139,0.0274,0.123,0.642,125.062,222093.0,4.0
+Seasons (with Sjava & Reason),35cOyocq8Gb6UcT0NWeTwn,Mozzy,4AA474G2hRfrHyGrfyDseO,Black Panther The Album Music From And Inspired By,50,1,True,0.628,0.556,1.0,-6.76,1.0,0.328,0.279,0.0,0.158,0.32,126.698,242293.0,4.0
+Big Shot (with Travis Scott),5cXg9IQS34FzLVdHhp7hu7,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,60,0,True,0.855,0.478,1.0,-9.116,1.0,0.193,0.00759,0.0,0.101,0.283,130.018,221827.0,4.0
+Pray For Me (with Kendrick Lamar),77UjLW8j5UAGAGVGhR5oUK,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Black Panther The Album Music From And Inspired By,67,0,True,0.735,0.677,2.0,-4.979,1.0,0.0932,0.0756,2.17e-05,0.111,0.187,100.563,211440.0,4.0
+HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,7h0d2h0fUmzbs7zeFigJPn,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS,62,0,True,0.559,0.491,2.0,-6.406,0.0,0.0346,0.0567,0.0,0.0992,0.114,153.131,244874.0,4.0
+JACKBOYS,62zKJrpbLxz6InR3tGyr7o,JACKBOYS,7A8S43ryYdbWpJKeHRZRcq,JACKBOYS,51,1,True,0.413,0.13,0.0,-25.166,0.0,0.0336,0.9,0.82,0.111,0.0676,123.342,46837.0,1.0
+GANG GANG,6uJONCdr2rC65BNmCnTBWK,JACKBOYS,7A8S43ryYdbWpJKeHRZRcq,JACKBOYS,64,1,True,0.859,0.6,7.0,-4.63,0.0,0.301,0.071,0.0,0.353,0.568,123.017,244761.0,4.0
+HAD ENOUGH (feat. Quavo & Offset),7LGWmZaoS7jZJ5tEi9EcDi,Don Toliver,4Gso3d4CscCijv0lmajZWs,JACKBOYS,60,0,True,0.75,0.789,2.0,-4.578,1.0,0.108,0.253,0.0,0.129,0.673,147.957,157133.0,4.0
+OUT WEST (feat. Young Thug),6gi6y1xwmVszDWkUqab1qw,JACKBOYS,7A8S43ryYdbWpJKeHRZRcq,JACKBOYS,75,1,True,0.802,0.591,8.0,-4.895,1.0,0.225,0.0104,0.0,0.196,0.309,139.864,157712.0,4.0
+WHAT TO DO? (feat. Don Toliver),4AO1XhrgJczQ9bNVxdfKQe,JACKBOYS,7A8S43ryYdbWpJKeHRZRcq,JACKBOYS,68,1,True,0.643,0.594,9.0,-5.191,0.0,0.0312,0.0695,1.46e-05,0.115,0.195,118.037,250142.0,4.0
+GATTI,40mjsnRjCpycdUw3xhS20g,JACKBOYS,7A8S43ryYdbWpJKeHRZRcq,JACKBOYS,71,1,True,0.594,0.676,2.0,-5.808,1.0,0.344,0.135,0.0,0.163,0.472,143.477,181145.0,4.0
+Supermodel,3lw0PaZdGkvCwTaiatHbnU,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),51,0,True,0.613,0.442,6.0,-8.874,1.0,0.288,0.651,0.0,0.26,0.252,119.737,181120.0,5.0
+Love Galore (feat. Travis Scott),7HhtNlYNI32WY6n0ISX0U1,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),52,0,True,0.795,0.594,0.0,-6.2,1.0,0.0748,0.112,0.0,0.162,0.409,135.002,275080.0,4.0
+Doves In The Wind (feat. Kendrick Lamar),0JijvZALkvx7uonQdvXXpH,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),49,0,True,0.693,0.713,10.0,-4.489,0.0,0.351,0.343,0.0,0.102,0.615,137.335,266080.0,4.0
+Drew Barrymore,5L7sgpCZgrcqpgh1xM7r6V,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),52,0,True,0.577,0.523,0.0,-5.538,0.0,0.0429,0.491,0.0,0.147,0.29,134.93,231400.0,4.0
+Prom,5MffAkbuTPBqRdPuPzaEb5,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),51,0,True,0.805,0.702,1.0,-4.877,1.0,0.0887,0.0639,0.0,0.123,0.225,120.048,196133.0,4.0
+The Weekend,61fROeJfnI3OtNQYMpN1gT,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),50,0,True,0.4,0.366,8.0,-9.405,0.0,0.0597,0.242,0.0,0.126,0.161,73.313,272187.0,3.0
+Go Gina,4U4bI86Jynl9et1eXyEpz6,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),49,0,True,0.603,0.606,9.0,-6.634,1.0,0.114,0.799,0.0,0.391,0.462,80.176,161613.0,4.0
+Garden (Say It Like Dat),6yyxqE2ZdAVuD2qEL76POx,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),50,0,True,0.73,0.457,9.0,-7.26,1.0,0.283,0.0705,0.0,0.124,0.549,111.352,208400.0,4.0
+Broken Clocks,5dIkvSrG129dvaQ3xb0M9R,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),52,0,True,0.692,0.684,6.0,-7.364,1.0,0.155,0.131,0.0,0.156,0.406,112.912,231253.0,4.0
+Anything,4rbl561Pds0a8d9h0RLaLF,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),47,0,True,0.669,0.488,0.0,-4.711,0.0,0.326,0.394,0.000649,0.0952,0.548,151.798,149320.0,4.0
+Wavy (Interlude) (feat. James Fauntleroy),0YPPnLR3TS4ZIAKCQOLZhK,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),46,0,True,0.629,0.509,0.0,-8.1,0.0,0.0809,0.475,0.0,0.0727,0.389,78.99,75800.0,1.0
+Normal Girl,1Y7tMWKvFZLCpoX0SINyhP,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),51,0,True,0.624,0.532,0.0,-7.146,1.0,0.124,0.269,5.17e-05,0.158,0.362,76.453,253587.0,4.0
+Pretty Little Birds (feat. Isaiah Rashad),4icqsSm2gIMEMUAcaReA3u,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),47,0,True,0.362,0.518,1.0,-7.687,1.0,0.306,0.223,0.00314,0.316,0.348,89.667,245947.0,4.0
+20 Something,0WC7CIZHwPXoFQEbJ721vT,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),49,0,True,0.569,0.299,11.0,-8.603,1.0,0.275,0.739,0.0,0.054,0.505,81.049,198160.0,4.0
+Love Galore (Alt Version),3fcX3E9l1gVnfKeWaEzHHv,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),59,0,True,0.827,0.439,9.0,-10.278,0.0,0.0784,0.0743,0.0,0.106,0.463,134.961,273778.0,4.0
+2AM,3vZGtceCbJVh5aDT4XhE0p,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),65,0,True,0.504,0.267,9.0,-13.678,0.0,0.406,0.438,0.0,0.141,0.392,83.966,242823.0,4.0
+Miles,4pHy0gmjfpD0Fgond5c4Ta,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),59,0,True,0.64,0.356,7.0,-11.563,1.0,0.0612,0.965,0.000214,0.109,0.574,122.531,69729.0,5.0
+Percolator,4UJuFZ4btsiGqMyFHBRPbo,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),54,0,True,0.946,0.47,0.0,-9.913,1.0,0.129,0.0102,0.413,0.0865,0.423,120.034,84000.0,4.0
+Tread Carefully,7newfXclX39UwWTw2gDswM,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),57,0,True,0.505,0.249,1.0,-14.879,0.0,0.139,0.115,0.0,0.155,0.207,115.815,182069.0,4.0
+Awkward,2xZ0zfuDTv5LxLhEgD82PG,SZA,7tYKF4w9nC0nq9CsPZTHyP,Ctrl (Deluxe),74,0,True,0.618,0.474,5.0,-12.097,1.0,0.0789,0.182,0.000122,0.108,0.397,119.999,178000.0,4.0
+Magical,0V0jxLGonu3pJV6hOl8CSK,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),43,0,False,0.658,0.632,8.0,-8.492,1.0,0.0298,0.748,7.33e-05,0.169,0.464,135.924,194277.0,4.0
+England,4OZoyD5m8Mrc0CMsAxBCU6,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),37,0,False,0.622,0.666,5.0,-10.786,1.0,0.0423,0.641,8.63e-05,0.513,0.52,126.934,226757.0,4.0
+Amazing,6rVxvys4tcXsNuw2xoKsLl,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),40,0,False,0.809,0.664,0.0,-7.265,1.0,0.0373,0.429,1.55e-06,0.131,0.374,116.996,245814.0,4.0
+Plastic Bag,11osH1qPIktZAVxjRd8EnW,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),41,0,True,0.713,0.727,7.0,-6.551,1.0,0.0528,0.621,0.0,0.0751,0.384,120.016,229851.0,4.0
+Blue,4MIe9vXY61PuUeFSq1x8rM,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),39,0,False,0.668,0.314,9.0,-8.275,0.0,0.0298,0.888,0.0,0.222,0.414,78.019,153899.0,1.0
+American Town,58oljhgRB2FFtF1l2v31QJ,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),48,0,False,0.74,0.652,0.0,-5.668,1.0,0.0601,0.736,0.0,0.348,0.715,105.025,197976.0,4.0
+That’s On Me,4W8EmeDnNxqRXEeVSpHDn7,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),38,0,True,0.822,0.696,7.0,-6.275,1.0,0.114,0.634,0.0,0.0624,0.575,106.995,227399.0,4.0
+Page,3pBpGx6jM4cQGzn1EMx963,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),38,0,False,0.774,0.604,2.0,-6.385,1.0,0.0404,0.623,3.48e-06,0.0889,0.62,146.081,231022.0,4.0
+Midnight,36TfNKDK3IuTC6E3UmfZ20,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),38,0,False,0.555,0.824,10.0,-5.843,1.0,0.0591,0.425,7.78e-05,0.082,0.685,178.034,179538.0,4.0
+Spring,4JV6AhDromrfPIVXuzEijV,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),38,0,False,0.644,0.317,5.0,-11.565,1.0,0.0317,0.923,0.00159,0.104,0.667,96.081,178616.0,4.0
+Punchline,6sOgmZZirRoPic91xQ0pl6,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),38,0,False,0.534,0.407,11.0,-7.994,1.0,0.0261,0.844,0.0,0.113,0.616,154.059,206008.0,4.0
+When Will I Be Alright,6VV2HwNlosZHFPYyPezX4Q,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),35,0,False,0.614,0.244,2.0,-9.345,1.0,0.0301,0.935,5.64e-05,0.112,0.488,126.381,175878.0,4.0
+The Day I Was Born,45a6lZchOMRp90XN1gC4II,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),35,0,True,0.6,0.667,0.0,-5.504,1.0,0.0443,0.657,0.0,0.327,0.725,135.083,252318.0,4.0
+Head > Heels,3V0WFHUDCYSCQkhnK9Yzn5,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),37,0,False,0.711,0.328,0.0,-9.172,1.0,0.0592,0.759,0.000538,0.116,0.347,77.539,253881.0,4.0
+Magical - Live from Brantlie’s Living Room,26eyElBDPNcCotyeb8GER6,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),34,0,False,0.575,0.244,11.0,-8.882,1.0,0.0307,0.841,0.0,0.111,0.492,80.922,174344.0,4.0
+England - Live from Maynard’s Living Room,26vVj2jF7opp0pTFTSNtZS,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),33,0,False,0.666,0.312,10.0,-7.862,1.0,0.0425,0.868,0.0,0.106,0.414,132.101,201568.0,4.0
+Amazing - Live from Kia’s Living Room,4hjpUPLh1WJ1tBNjFsgppU,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),33,0,False,0.908,0.313,11.0,-7.433,1.0,0.073,0.7,0.0,0.128,0.9,126.949,174165.0,4.0
+Plastic Bag - Live from Alex’s Living Room,4uLja2eQJ8mBoA4QmVy4Jb,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),33,0,True,0.722,0.274,8.0,-6.234,1.0,0.0414,0.872,0.0,0.112,0.534,126.456,218888.0,4.0
+Blue - Live from Sarom’s Living Room,5SBrQlvC8l1tW5wNSi0Rlu,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),33,0,False,0.441,0.319,2.0,-7.085,1.0,0.0351,0.893,0.0,0.241,0.389,168.399,141204.0,4.0
+American Town - Live from Kari’s Living Room,0nWELRrZYYeJaynDOVjggv,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Autumn Variations (Fan Living Room Sessions),35,0,False,0.606,0.475,1.0,-4.255,1.0,0.045,0.813,0.0,0.102,0.631,106.149,195749.0,4.0
+SLIDE,0XDzR8OpZWYH0eE6KYF2iI,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,51,0,False,0.737,0.81,10.0,-5.679,0.0,0.0875,0.0252,0.0,0.119,0.497,108.002,198000.0,4.0
+TIME MOVING SLOW,1R7eMSKgatyWobFUdbXgpL,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,49,0,False,0.743,0.675,4.0,-6.363,0.0,0.194,0.142,0.0,0.315,0.256,120.755,159669.0,4.0
+FIELD TRIP,38yTBBKzhv6vPkMONXXtJx,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,57,0,False,0.713,0.673,11.0,-4.673,0.0,0.0997,0.0346,0.0,0.104,0.429,122.001,167213.0,4.0
+FRIED,2gB9PuHs1eQc9yd0CRNruO,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,59,1,False,0.567,0.626,1.0,-6.877,1.0,0.0331,0.0145,7.75e-06,0.839,0.201,149.936,153600.0,4.0
+ISABELLA,1dZMwxr9y1MQvyljOCUxw3,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,12,0,False,,,,,,,,,,,,,
+PROMOTION,5NLwnrNnwm3exqGYt61ucF,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,53,0,False,0.816,0.426,9.0,-7.556,1.0,0.504,0.286,0.0,0.0867,0.269,157.062,158981.0,4.0
+530,6Lo67fRKutuSH1FcweSgrD,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,53,0,False,0.441,0.56,11.0,-5.622,0.0,0.214,0.188,0.0,0.37,0.301,79.777,289488.0,4.0
+DEAD,0rewLhVIEuPWzfL95KexaZ,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,50,0,False,0.885,0.469,1.0,-8.297,1.0,0.344,0.0364,0.000115,0.104,0.177,134.075,263284.0,4.0
+FOREVER ROLLING,76y1mvWGWfCEx4nfgsG3Y2,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,47,0,False,0.584,0.71,2.0,-5.532,0.0,0.342,0.227,0.0,0.118,0.0772,91.037,198333.0,4.0
+BOMB,5uYiYB1LpVFeSrRJXzqXhV,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,46,0,False,0.425,0.912,6.0,-4.581,0.0,0.0933,0.00506,0.000227,0.334,0.331,145.66,151657.0,4.0
+RIVER,3ot9Q9q70oYxAMCMExbf2b,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,49,0,False,0.737,0.448,1.0,-8.742,1.0,0.11,0.0857,0.0,0.153,0.167,131.97,247273.0,4.0
+FOREVER,15L6Fd2cpsX6h8vrvDu4ez,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,47,0,False,0.556,0.399,3.0,-8.22,1.0,0.0336,0.847,0.00154,0.441,0.882,61.048,87541.0,4.0
+HUSBAND,1eI7G0CvQmbHl7RHfqe6v6,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,44,0,False,0.7,0.264,0.0,-10.621,1.0,0.0766,0.822,1.13e-05,0.112,0.204,100.176,137600.0,5.0
+LIFESTYLE,4vmU2FTMr5YP21zmvmw7CF,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,49,0,False,0.587,0.852,0.0,-5.554,1.0,0.316,0.487,0.0,0.125,0.777,74.823,203229.0,4.0
+SKY CITY,2V5dKjrl7niQLzpoaRnCKg,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,50,0,False,0.628,0.513,2.0,-6.699,1.0,0.178,0.727,0.0,0.162,0.394,79.404,262235.0,4.0
+MY SOUL,6Yayz5y4EC1IyPmbTN1Ahm,¥$,4xPQFgDA5M2xa0ZGo5iIsv,VULTURES 2,46,0,False,0.429,0.631,1.0,-11.999,0.0,0.149,0.019,5.88e-06,0.369,0.122,171.865,237249.0,4.0
+Objection (Tango),6v4BO70yz5MclzEjuyIWpW,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),34,0,False,0.597,0.841,11.0,-6.576,0.0,0.0599,0.0115,0.0,0.0311,0.703,179.424,224200.0,4.0
+Underneath Your Clothes,7hSutTmcWo3mdMy5p6nuP8,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),35,0,False,0.699,0.552,8.0,-6.588,1.0,0.0318,0.666,0.0,0.103,0.344,82.76,225333.0,4.0
+"Whenever, Wherever",1aOmguVejTHGDMmXjNpSPo,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),41,0,False,0.788,0.79,1.0,-6.14,0.0,0.0414,0.242,6.82e-06,0.204,0.867,107.645,196800.0,4.0
+Rules,2xnHNytBhw7sh9XrUuWTzj,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),29,0,False,0.685,0.836,10.0,-7.56,1.0,0.0404,0.0278,1.48e-06,0.152,0.753,148.979,220867.0,4.0
+The One,032rOlqTseuMobet1jpna8,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),29,0,False,0.549,0.508,8.0,-7.832,1.0,0.0345,0.183,3.95e-06,0.105,0.154,143.999,223693.0,4.0
+Ready for the Good Times,77HLxGCg7Pol8sXQKRJ3DF,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),29,0,False,0.769,0.787,0.0,-7.489,0.0,0.0416,0.152,0.000666,0.104,0.827,121.014,254040.0,4.0
+Fool,3wcDkuCwJJ8xbds86p0z2P,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),28,0,False,0.638,0.64,3.0,-7.098,1.0,0.0242,0.0329,0.0,0.0943,0.424,101.027,231960.0,4.0
+Te Dejo Madrid,1w4a3Sy3d1ptWxIlE6S5bY,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),30,0,False,0.735,0.643,11.0,-6.287,1.0,0.0373,0.0204,9.58e-06,0.295,0.932,131.018,187333.0,4.0
+Poem to a Horse,7rE1p08sgOmsJC3m3j462B,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),28,0,False,0.519,0.856,11.0,-6.94,0.0,0.0603,0.0227,6.08e-06,0.102,0.715,188.006,249107.0,4.0
+Que Me Quedes Tú,2VY4zXDAGaFPdzyezjmT2s,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),31,0,False,0.757,0.469,7.0,-9.545,0.0,0.0274,0.258,3.74e-05,0.28,0.417,113.056,288467.0,4.0
+Eyes Like Yours (Ojos Así),5Zcvsa7LBiVlEnD69aZiNb,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),28,0,False,0.724,0.961,1.0,-6.577,1.0,0.0522,0.168,1.1e-05,0.144,0.692,127.033,238027.0,4.0
+"Suerte (Whenever, Wherever)",7ppmRz3W47ALsrATmglbv1,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),42,0,False,0.754,0.801,1.0,-6.025,0.0,0.0371,0.15,0.0,0.205,0.881,108.994,196000.0,4.0
+"Te Aviso, Te Anuncio (Tango)",5T2mV4uefPTylywzV0L84z,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),31,0,False,0.598,0.873,11.0,-6.672,0.0,0.0484,0.0163,5.54e-06,0.0294,0.633,179.346,225200.0,4.0
+"Whenever, Wherever - Sahara Mix",4IXwdtnrNq5fPQRqAuJwam,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),28,0,False,0.793,0.772,1.0,-7.749,0.0,0.101,0.247,0.00177,0.0645,0.821,112.015,237467.0,4.0
+Underneath Your Clothes - Acoustic Live Vox,1YRBm74ixDPdDd3iJUextF,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),28,0,False,0.533,0.414,7.0,-8.951,1.0,0.0388,0.64,0.0,0.716,0.363,80.299,237040.0,4.0
+Objection (Tango) - Afro-Punk Version,73ZUaFZdd5aii31xpyk3Az,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),30,0,False,0.587,0.8,11.0,-6.198,0.0,0.177,0.0102,0.00036,0.0576,0.734,179.529,233760.0,4.0
+"Whenever, Wherever - Pepsi Super Bowl LIV Halftime Show Remix",59QI3gSnv576kHyV4Jqt36,Shakira,0EmeFodog0BfCgMzAIvKQp,Laundry Service: Washed and Dried (Expanded Edition),44,0,False,0.781,0.861,1.0,-6.893,0.0,0.0411,0.049,0.0,0.209,0.711,111.011,156633.0,4.0
+Moscow Mule,6Xom58OOXk2SoU711L2IXO,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,82,1,True,0.804,0.674,5.0,-5.453,0.0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,245940.0,4.0
+Después de la Playa,1dm6z1fWB0cErMszU25dy2,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,74,0,False,0.564,0.903,5.0,-3.221,1.0,0.307,0.356,0.0,0.175,0.607,78.293,230400.0,4.0
+Me Porto Bonito,6Sq7ltF9Qa7SNFBsV5Cogx,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,84,1,True,0.911,0.712,1.0,-5.105,0.0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,178567.0,4.0
+Tití Me Preguntó,1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,82,1,True,0.65,0.715,5.0,-5.198,0.0,0.253,0.0993,0.000291,0.126,0.187,106.672,243717.0,4.0
+Un Ratito,5CzixCxDkRXX9mScCmah8O,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,75,0,True,0.787,0.546,0.0,-7.094,0.0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,176936.0,4.0
+Yo No Soy Celoso,5kVZxyMY1gfdCLiChsfjn1,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,72,0,True,0.872,0.588,0.0,-6.276,1.0,0.0492,0.275,0.0,0.17,0.93,142.004,230704.0,4.0
+Tarot,41oY4WCTj5kccfesTVFnvN,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,78,0,True,0.795,0.684,11.0,-3.971,0.0,0.0419,0.0225,0.0,0.658,0.419,114.011,237895.0,4.0
+Neverita,31i56LZnwE6uSu3exoHjtB,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,78,0,False,0.876,0.498,10.0,-7.511,1.0,0.0478,0.0706,0.0,0.143,0.428,122.016,173119.0,4.0
+La Corriente,1797zYiX4cKosMH836X9Gt,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,76,0,True,0.663,0.786,11.0,-3.51,0.0,0.195,0.229,0.0,0.219,0.579,196.12,198367.0,4.0
+Efecto,5Eax0qFko2dh7Rl2lYs3bx,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,82,1,True,0.801,0.475,7.0,-8.797,0.0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,213061.0,4.0
+Party,4tYFy8ALRjIZvnvSLw5lxN,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,76,0,True,0.829,0.799,9.0,-5.389,1.0,0.0897,0.0151,0.000543,0.242,0.471,97.013,227629.0,4.0
+Aguacero,2uflssWlCaJ6CbTMOsUpNI,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,73,0,True,0.861,0.645,6.0,-6.96,0.0,0.0743,0.423,0.000592,0.349,0.668,121.391,210989.0,5.0
+Enséñame a Bailar,2NMjggapJcXXM7WccGEBUO,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,73,0,False,0.81,0.789,8.0,-5.08,1.0,0.0846,0.191,1.08e-05,0.467,0.77,105.009,176000.0,4.0
+Ojitos Lindos,3k3NWokhRRkEPhCzPmV8TW,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,83,1,False,0.647,0.686,3.0,-5.745,0.0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,258299.0,4.0
+Dos Mil 16,4d4ZXH4dr5bYfgErHiZCX2,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,75,0,True,0.817,0.67,1.0,-6.534,1.0,0.0506,0.123,1.92e-06,0.128,0.495,130.058,208615.0,3.0
+El Apagón,0UvZcEfpzVyx47QsRbjyBz,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,68,0,True,0.629,0.698,8.0,-4.485,1.0,0.308,0.0509,0.00166,0.0909,0.599,117.765,201816.0,4.0
+Otro Atardecer,0E0DRHf5PfMeor0ZCwB3oT,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,77,0,False,0.777,0.595,2.0,-6.79,1.0,0.0375,0.59,0.00139,0.0669,0.546,108.02,244444.0,4.0
+Un Coco,6VrQTLzzuyGIYjUDe4kAZk,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,79,0,True,0.839,0.69,11.0,-4.464,1.0,0.0615,0.207,8.33e-06,0.176,0.744,151.991,196413.0,4.0
+Andrea,44XjoNvtwevktFKjvVe1vH,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,76,0,True,0.797,0.616,1.0,-10.229,0.0,0.375,0.762,0.000293,0.0979,0.451,103.071,339612.0,4.0
+Me Fui de Vacaciones,28GCbKgjlVD9eDmasGbe0T,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,73,0,False,0.714,0.645,10.0,-5.493,1.0,0.0514,0.229,0.00083,0.0942,0.434,85.046,180930.0,4.0
+Text Book,4brdb8L2Cy3e9AN8IfV9l8,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,56,0,False,0.424,0.318,2.0,-9.915,0.0,0.0427,0.824,0.000542,0.114,0.102,119.396,303228.0,3.0
+Blue Banisters,4U9ACZETPOqGuJkWtjkjLF,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,56,0,False,0.373,0.114,5.0,-13.171,1.0,0.041,0.937,4.73e-05,0.104,0.172,90.945,293692.0,1.0
+Arcadia,3EZTyh1wJEmreJH1aULPCj,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,57,0,False,0.323,0.106,10.0,-10.374,1.0,0.0323,0.97,5.94e-05,0.108,0.158,91.455,263400.0,4.0
+Interlude - The Trio,5rmIMPXAlfidbd9f2AfwlQ,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,55,0,False,0.376,0.493,2.0,-14.03,1.0,0.0372,0.000689,0.901,0.153,0.119,102.845,75960.0,4.0
+Black Bathing Suit,2LQGoKFKkZ9yk3UeYFj2xo,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,58,0,True,0.418,0.377,11.0,-11.612,1.0,0.0738,0.852,4.61e-05,0.374,0.283,113.936,318040.0,4.0
+If You Lie Down With Me,1RPsOAaHaRu8JlVdeaciuL,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,60,0,False,0.641,0.346,0.0,-9.508,1.0,0.036,0.913,3.99e-05,0.104,0.187,122.101,265187.0,4.0
+Beautiful,5uPpzqixdzAMXprr4P5aT5,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,55,0,False,0.552,0.202,6.0,-10.685,1.0,0.043,0.96,0.00154,0.225,0.237,78.021,215760.0,4.0
+Violets for Roses,5yrAkKml7mtzmPPbjB2qTC,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,61,0,False,0.513,0.21,10.0,-10.472,1.0,0.0301,0.922,0.0,0.123,0.14,88.021,255040.0,4.0
+Dealer,7iqQz931tn59mK6IZ3knRx,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,72,0,True,0.602,0.59,0.0,-6.346,0.0,0.0279,0.318,0.000166,0.104,0.381,130.08,274293.0,4.0
+Thunder,4y9vLiQ9mQb6XNEtc4K6ou,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,67,0,True,0.483,0.475,3.0,-8.442,1.0,0.0291,0.674,0.00167,0.115,0.237,73.862,259467.0,4.0
+Wildflower Wildfire,7fvTXmlzhOUE7WUD6aJC4N,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,56,0,False,0.547,0.205,7.0,-10.021,0.0,0.0277,0.873,0.0502,0.113,0.222,105.745,287840.0,3.0
+Nectar Of The Gods,3qydJy5jc1UslvHkm3Hrve,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,56,0,True,0.447,0.165,10.0,-9.275,1.0,0.0342,0.888,1.4e-06,0.177,0.122,101.758,259893.0,4.0
+Living Legend,6pZ9Nj3vzj1RW4ZkR9GcQ9,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,62,0,False,0.402,0.219,7.0,-9.244,1.0,0.0318,0.935,0.0034,0.102,0.166,126.595,241427.0,4.0
+Cherry Blossom,6bGevdEVEoEbLK72WFfIYR,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,57,0,False,0.413,0.119,7.0,-12.499,1.0,0.0348,0.982,0.00219,0.112,0.216,111.11,197933.0,4.0
+Sweet Carolina,1Hezl8gsPpfK3N2by41Wxb,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Blue Banisters,58,0,True,0.45,0.148,1.0,-11.802,1.0,0.0569,0.976,0.000409,0.107,0.0758,79.727,201780.0,5.0
+Beautiful Mistakes (feat. Megan Thee Stallion),5zFglKYiknIxks8geR8rcL,Maroon 5,04gDigrS5kc9YWfZHwBETP,JORDI (Deluxe),75,0,False,0.713,0.676,10.0,-5.483,1.0,0.027,0.0377,0.0,0.154,0.721,99.048,227395.0,4.0
+Lost,6tHQAadcluhVV4oD2IvHSk,Maroon 5,04gDigrS5kc9YWfZHwBETP,JORDI (Deluxe),50,0,False,0.766,0.706,7.0,-6.553,0.0,0.16,0.223,0.00028,0.064,0.766,142.989,172598.0,4.0
+Echo (feat. blackbear),54WpJSyO81dpA40MKJHd0C,Maroon 5,04gDigrS5kc9YWfZHwBETP,JORDI (Deluxe),53,0,False,0.759,0.67,1.0,-5.309,1.0,0.0509,0.0204,0.0,0.0953,0.741,136.027,178620.0,4.0
+Lovesick,4lejz024CsCP6S5kPD6Upb,Maroon 5,04gDigrS5kc9YWfZHwBETP,JORDI (Deluxe),49,0,False,0.675,0.699,0.0,-5.894,1.0,0.0296,0.00248,0.000604,0.114,0.43,123.042,185068.0,4.0
+Remedy (feat. Stevie Nicks),03blI4F6MeYd6kJx26VsJ2,Maroon 5,04gDigrS5kc9YWfZHwBETP,JORDI (Deluxe),47,0,True,0.753,0.633,6.0,-7.263,0.0,0.0594,0.14,0.0,0.392,0.714,132.031,149492.0,3.0
+Seasons,1G5rzVAFlgMqG4gaRujcaA,Maroon 5,04gDigrS5kc9YWfZHwBETP,JORDI (Deluxe),45,0,False,0.638,0.504,8.0,-8.335,1.0,0.0578,0.509,2.18e-05,0.103,0.281,140.204,168304.0,4.0
+One Light (feat. Bantu),6PyFYTEo8X3inQ4hQvA8md,Maroon 5,04gDigrS5kc9YWfZHwBETP,JORDI (Deluxe),43,0,False,0.81,0.642,10.0,-5.801,1.0,0.0712,0.106,0.0,0.0805,0.596,105.968,214390.0,4.0
+Convince Me Otherwise (with H.E.R.),7DVassGvnqQRSfVSVPxtpV,Maroon 5,04gDigrS5kc9YWfZHwBETP,JORDI (Deluxe),44,0,False,0.378,0.677,5.0,-6.998,0.0,0.0475,0.079,9.38e-05,0.102,0.481,199.656,187682.0,4.0
+Nobody's Love,2ST72jD2KVe7f3fbcGyX1b,Maroon 5,04gDigrS5kc9YWfZHwBETP,JORDI (Deluxe),60,0,False,0.485,0.567,1.0,-6.456,1.0,0.0388,0.316,0.0,0.0949,0.157,93.676,211254.0,4.0
+Can't Leave You Alone (feat. Juice WRLD),5kS3Kw2elRTrodnsyQuhvI,Maroon 5,04gDigrS5kc9YWfZHwBETP,JORDI (Deluxe),56,0,False,0.727,0.53,8.0,-7.296,1.0,0.0703,0.159,0.0,0.105,0.43,139.996,196898.0,4.0
+Memories,4cktbXiXOapiLBMprHFErI,Maroon 5,04gDigrS5kc9YWfZHwBETP,JORDI (Deluxe),82,1,False,0.775,0.327,11.0,-7.241,1.0,0.0557,0.841,0.0,0.0821,0.595,91.05,189486.0,4.0
+Memories Remix (feat. Nipsey Hussle & YG),3p4WMekidOIiyf8SFvfrIC,Maroon 5,04gDigrS5kc9YWfZHwBETP,JORDI (Deluxe),51,0,True,0.807,0.396,11.0,-7.415,1.0,0.0545,0.855,0.0,0.0805,0.7,91.159,189486.0,4.0
+Button (feat. Anuel AA & Tainy),6FDKYM0lBf6zqrg8cFokPd,Maroon 5,04gDigrS5kc9YWfZHwBETP,JORDI (Deluxe),45,0,False,0.717,0.657,10.0,-6.355,1.0,0.0714,0.129,0.0,0.397,0.589,100.924,164224.0,4.0
+Lifestyle (Jason Derulo ft. Adam Levine),4rEe3htSUbJbO8kJePhHBx,Jason Derulo,07YZf4WDAMNwqr4jfgOZ8y,JORDI (Deluxe),43,0,True,0.749,0.675,10.0,-5.128,0.0,0.0366,0.0219,0.0,0.17,0.708,123.055,153865.0,4.0
+MIENTRAS ME CURO DEL CORA,6otePxalBK8AVa20xhZYVQ,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,82,1,False,0.564,0.477,0.0,-6.786,1.0,0.388,0.852,0.0,0.142,0.57,80.891,164387.0,4.0
+X SI VOLVEMOS,4NoOME4Dhf4xgxbHDT7VGe,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,80,1,True,0.796,0.806,1.0,-3.441,0.0,0.321,0.332,0.0,0.104,0.56,178.007,200120.0,4.0
+PERO TÚ,1dw7qShk971xMD6r6mA4VN,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,76,0,True,0.86,0.788,6.0,-4.561,1.0,0.294,0.4,0.0,0.111,0.683,139.855,183480.0,4.0
+BESTIES,7eTv2OTr3aY5iKtFdBusoA,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,67,0,True,0.779,0.825,1.0,-3.366,0.0,0.304,0.145,0.0,0.0988,0.651,171.947,162147.0,4.0
+GUCCI LOS PAÑOS,3CNbrXrUrEARw8zeKNCdYo,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,71,0,True,0.793,0.45,2.0,-3.012,1.0,0.0392,0.542,0.0,0.191,0.87,157.937,186453.0,3.0
+TQG,0DWdj2oZMBFSzRsi2Cvfzf,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,83,1,True,0.587,0.647,4.0,-3.385,0.0,0.327,0.619,0.0,0.106,0.686,90.123,197933.0,4.0
+TUS GAFITAS,3gOI5aQD4mOMLsP3aWrkon,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,68,0,False,0.821,0.686,8.0,-5.808,0.0,0.0451,0.322,5.64e-06,0.158,0.586,122.007,167787.0,4.0
+OJOS FERRARI,5yAIrkplUEpMNeojW8Q30o,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,65,0,True,0.9,0.709,1.0,-2.791,1.0,0.0968,0.144,3.35e-05,0.173,0.667,124.046,180040.0,4.0
+MERCURIO,6KCvMsAiL6WseKEFsWoPgc,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,63,0,True,0.875,0.688,11.0,-4.581,0.0,0.104,0.52,0.0,0.113,0.612,139.955,160427.0,4.0
+GATÚBELA,6Vn1vje8yMw2OY6IOk9dkH,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,69,0,False,0.872,0.854,11.0,-2.68,0.0,0.212,0.234,0.0,0.167,0.323,95.01,208013.0,4.0
+KÁRMIKA,3mFNc5EQn30irR983Wg9OD,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,68,0,False,0.872,0.637,6.0,-5.248,1.0,0.386,0.435,0.0,0.138,0.748,97.046,236587.0,4.0
+PROVENZA,3HqcNJdZ2seoGxhn0wVNDK,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,82,1,False,0.863,0.502,1.0,-7.912,1.0,0.0496,0.61,0.00765,0.11,0.567,111.029,207627.0,4.0
+CAROLINA,3goYw6YHoCjA1sfBzpdgzH,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,70,0,False,0.721,0.75,1.0,-4.149,0.0,0.33,0.485,0.00422,0.111,0.697,82.384,162093.0,4.0
+DAÑAMOS LA AMISTAD,3jUDqkHatwtprUmZ8epP8P,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,62,0,True,0.806,0.796,0.0,-4.821,1.0,0.0929,0.173,8.91e-06,0.0725,0.6,93.015,174960.0,4.0
+AMARGURA,505v13epFXodT9fVAJ6h8k,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,87,1,True,0.912,0.7,6.0,-3.331,0.0,0.068,0.163,0.0,0.174,0.535,106.981,170480.0,4.0
+CAIRO,16dUQ4quIHDe4ZZ0wF1EMN,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,76,0,True,0.955,0.673,0.0,-3.99,0.0,0.338,0.446,0.00041,0.0975,0.484,115.035,198667.0,4.0
+MAÑANA SERÁ BONITO,4bycD60yZgR6anIBtmU8UH,KAROL G,790FomKkXshlbRYZFtlgla,MAÑANA SERÁ BONITO,71,0,False,0.77,0.718,8.0,-4.559,0.0,0.093,0.484,3.41e-05,0.326,0.259,92.029,210987.0,4.0
+It's De-Lovely,5i6SVeYn0jb3yMp9fsQGto,Tony Bennett,2lolQgalUvZDfp5vvVtTYV,Love For Sale (Deluxe),37,0,False,0.596,0.471,9.0,-5.722,1.0,0.138,0.726,0.0,0.0158,0.431,93.103,173440.0,4.0
+Night And Day,0ZzE3KupbceBjr17DMhWAo,Tony Bennett,2lolQgalUvZDfp5vvVtTYV,Love For Sale (Deluxe),36,0,False,0.399,0.384,0.0,-6.981,1.0,0.0286,0.61,0.0,0.486,0.339,102.31,222373.0,4.0
+Love For Sale,4biVNJdcVpAljZjpiO9B4Z,Tony Bennett,2lolQgalUvZDfp5vvVtTYV,Love For Sale (Deluxe),41,0,False,0.588,0.493,10.0,-7.331,0.0,0.104,0.71,0.0,0.0797,0.518,104.1,220787.0,4.0
+Do I Love You,7fGcPsneoxIweHKdc14vlw,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Love For Sale (Deluxe),36,0,False,0.263,0.286,7.0,-7.986,1.0,0.0295,0.888,2.56e-06,0.34,0.18,61.842,288280.0,4.0
+I've Got You Under My Skin,6jz5HzDmPuQ24U7u7KfKGw,Tony Bennett,2lolQgalUvZDfp5vvVtTYV,Love For Sale (Deluxe),51,1,False,0.646,0.478,2.0,-6.57,1.0,0.0349,0.804,0.0,0.311,0.715,129.443,185933.0,4.0
+I Concentrate On You,1Z2el1XLsdJwt6Kefb2F5p,Tony Bennett,2lolQgalUvZDfp5vvVtTYV,Love For Sale (Deluxe),33,0,False,0.552,0.58,5.0,-7.307,0.0,0.0339,0.539,3.3e-06,0.335,0.593,129.544,236800.0,4.0
+I Get A Kick Out Of You,6tANJIaIQAFhMxgnafAZd2,Tony Bennett,2lolQgalUvZDfp5vvVtTYV,Love For Sale (Deluxe),45,0,False,0.462,0.452,7.0,-6.492,0.0,0.0511,0.811,0.0,0.0741,0.537,78.911,213960.0,4.0
+So In Love,3cvdaHJUFir8IQhHO0XD0j,Tony Bennett,2lolQgalUvZDfp5vvVtTYV,Love For Sale (Deluxe),32,0,False,0.431,0.396,8.0,-9.999,1.0,0.0284,0.778,5.21e-05,0.267,0.375,123.262,271333.0,4.0
+Let's Do It,0dImZ1ZhnS1xfhYVkPPeqE,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Love For Sale (Deluxe),33,0,False,0.496,0.455,5.0,-6.746,1.0,0.0514,0.746,0.0,0.0792,0.426,130.009,216493.0,4.0
+Dream Dancing,7kjzAKTVd9umvnChTkzTNd,Tony Bennett,2lolQgalUvZDfp5vvVtTYV,Love For Sale (Deluxe),32,0,False,0.452,0.447,7.0,-7.37,1.0,0.031,0.695,1.38e-06,0.207,0.31,132.049,256280.0,4.0
+Just One Of Those Things,0Kdtya9rpac1Da89XBZ52O,Tony Bennett,2lolQgalUvZDfp5vvVtTYV,Love For Sale (Deluxe),30,0,False,0.352,0.567,5.0,-6.945,0.0,0.0438,0.813,8.9e-06,0.3,0.78,202.623,179947.0,3.0
+You're The Top,5ueoGQzXQDQazPcPq5UvOQ,Tony Bennett,2lolQgalUvZDfp5vvVtTYV,Love For Sale (Deluxe),32,0,False,0.573,0.579,5.0,-5.845,1.0,0.173,0.42,0.0,0.129,0.776,90.767,169400.0,4.0
+Fairytale,2N85JtbjMKeqNUgz7PqHFD,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Shockwave,35,0,False,0.56,0.919,6.0,-4.344,1.0,0.0325,0.000253,0.957,0.346,0.568,144.964,155586.0,4.0
+Supernovacane,1bW2JNdrpTOUew8G7UeUhP,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Shockwave,36,0,False,0.514,0.926,5.0,-3.188,0.0,0.0317,0.000845,0.0345,0.0891,0.556,151.921,179955.0,4.0
+Jiggle It,0ckNlWYwtIlbl44kQefHuo,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Shockwave,41,0,False,0.622,0.81,10.0,-4.355,0.0,0.0457,0.00107,0.806,0.16,0.637,169.96,170821.0,4.0
+Back It Up,4WrPZ198RawgV8uMVwkYWU,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Shockwave,29,0,True,0.754,0.865,0.0,-3.696,1.0,0.0478,0.00663,0.000114,0.361,0.411,134.952,160016.0,4.0
+VIBR8,4YT2CvoawmCGIHkMccm6qk,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Shockwave,43,0,True,0.508,0.915,9.0,-3.396,0.0,0.0689,0.005,0.336,0.0892,0.171,114.644,179903.0,5.0
+Bad Bitches (feat. Megan Thee Stallion),2OYfxjLnQuPo7Co1WH0Z1S,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Shockwave,38,0,True,0.819,0.814,10.0,-3.44,0.0,0.0382,0.00033,0.328,0.0644,0.464,125.965,152415.0,4.0
+Back In Time,23YTJTopRwkkeX6QGsEaKc,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Shockwave,40,0,False,0.783,0.824,1.0,-4.558,1.0,0.0598,0.0108,0.000795,0.0748,0.413,139.998,160877.0,4.0
+Hitta (feat. Juicy J),244AoGCbxOWUhaRzTR7Spz,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Shockwave,42,0,True,0.732,0.956,2.0,-2.775,1.0,0.0708,0.017,6.99e-06,0.357,0.375,145.103,170807.0,4.0
+House Party,3LuKDSqL4z1BL8HjSwxh5b,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Shockwave,43,0,False,0.726,0.876,1.0,-4.204,1.0,0.16,0.0331,0.00569,0.0658,0.569,75.026,205127.0,4.0
+Candy Kid,6Q7mn0KjoCZGYeuWR8pAmZ,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Shockwave,37,0,False,0.61,0.979,1.0,-3.459,0.0,0.0627,3.78e-05,0.584,0.114,0.423,150.053,129702.0,4.0
+Pushin Stacks,4cLFnU75cTHlBOMrUJcRHr,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Shockwave,32,0,False,0.622,0.902,2.0,-4.539,1.0,0.117,0.000655,0.523,0.22,0.496,140.024,214518.0,4.0
+Shockwave,3sOGVdj5VPY6C2XImtlzj7,Marshmello,64KEffDW9EtZ1y2vBYgq8T,Shockwave,60,0,False,0.577,0.875,9.0,-2.897,0.0,0.0681,0.0231,4.69e-06,0.111,0.411,164.009,181283.0,4.0
+My Life - Live in Vegas,0kUUcwWKDeI12flxcyUa7Q,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,49,0,False,0.444,0.768,4.0,-6.301,1.0,0.0464,0.00929,0.000104,0.673,0.457,130.06,188471.0,4.0
+Believer - Live in Vegas,2ZvCFzcNbL20WUGMWvDOM0,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,49,0,False,0.414,0.924,8.0,-4.979,1.0,0.24,0.0255,0.0,0.454,0.153,124.999,275207.0,4.0
+"Las Vegas, Our Home - Live in Vegas",3U0cjsyIcKhZbBPsOPKZj7,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,46,0,False,0.437,0.412,0.0,-10.998,1.0,0.0383,0.611,0.0,0.114,0.0379,105.795,75983.0,4.0
+It's Time - Live in Vegas,5nSAoHM9qM1RAKiyqx7AAu,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,47,0,False,0.675,0.881,0.0,-4.743,1.0,0.0474,0.0137,1.37e-05,0.504,0.244,104.993,301084.0,4.0
+I'm So Sorry - Live in Vegas,2tOetqEr23IS6t8qizBVt2,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,46,0,False,0.273,0.905,7.0,-4.654,1.0,0.136,0.0194,2.61e-06,0.908,0.334,141.384,282209.0,4.0
+Thunder - Live in Vegas,6w9VLa9bw3XmAmZc3UPW3e,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,55,0,False,0.235,0.775,0.0,-4.965,1.0,0.0428,0.0132,2.99e-05,0.621,0.251,168.019,276973.0,4.0
+Birds - Live in Vegas,1zx9qIkjNrv0jyLanqEI09,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,46,0,False,0.644,0.723,1.0,-5.323,0.0,0.0334,0.237,0.0,0.132,0.367,120.01,218834.0,4.0
+Follow You - Live in Vegas,2q7AolZJ1mCow1nDBlUDd4,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,45,0,False,0.53,0.853,9.0,-6.05,1.0,0.0777,0.0386,0.0,0.941,0.257,124.863,219555.0,4.0
+Lonely - Live in Vegas,6PjB9moDPUWO42KyvDfg4y,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,44,0,False,0.609,0.865,0.0,-5.927,1.0,0.0329,0.0358,0.0,0.649,0.641,98.055,298326.0,4.0
+Natural - Live in Vegas,5NNoloxhQ9iOE6yUE2tRJn,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,45,0,False,0.589,0.671,2.0,-5.09,1.0,0.042,0.23,0.0,0.888,0.244,100.055,256037.0,4.0
+Next to Me (Acoustic) - Live in Vegas,2MIZjqSTq0hZSUuDV4gMqp,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,46,0,False,0.62,0.393,2.0,-8.043,1.0,0.0316,0.636,0.0,0.85,0.29,111.954,234171.0,4.0
+I Bet My Life (Acoustic) - Live in Vegas,5QXqQloyCOtu9rdGN7iRre,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,43,0,False,0.354,0.595,1.0,-7.154,1.0,0.0332,0.231,0.000189,0.668,0.284,118.239,225660.0,4.0
+One Day (Acoustic) - Live in Vegas,6FUgyNDSqhZVxT6NdqvIZT,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,44,0,False,0.621,0.514,11.0,-10.508,0.0,0.0372,0.333,6.32e-05,0.363,0.453,89.909,244885.0,4.0
+Whatever It Takes - Live in Vegas,5nASdE2ijIfq0cIG4VZCgW,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,45,0,False,0.528,0.866,10.0,-5.252,0.0,0.0666,0.0943,0.0,0.952,0.356,135.035,323653.0,4.0
+Younger - Live in Vegas,0be8JGyxfAY3VmiQamiIUi,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,42,0,False,0.594,0.808,0.0,-5.957,1.0,0.0438,0.133,0.0,0.984,0.482,111.014,223398.0,4.0
+Sharks - Live in Vegas,5kqRnvyLJAXdM3DqoruKGx,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,43,0,False,0.757,0.809,10.0,-6.558,0.0,0.0363,0.035,4.88e-06,0.694,0.792,124.01,233126.0,4.0
+Enemy - Live in Vegas,09DHf5GrH2NW46Z3tnqRSn,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,43,0,False,0.583,0.857,11.0,-5.039,0.0,0.0595,0.124,0.0,0.693,0.38,77.015,233807.0,4.0
+I'm Happy - Live in Vegas,5zq2QfbXqkHORdJZI9z8O1,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,41,0,False,0.563,0.663,2.0,-5.295,1.0,0.0353,0.00919,0.0,0.933,0.303,105.901,217509.0,4.0
+Demons - Live in Vegas,1II3z06CILYH00zyVLCLV4,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,61,0,False,0.541,0.618,1.0,-5.678,1.0,0.0269,0.188,0.0,0.391,0.442,89.917,263569.0,4.0
+On Top of the World - Live in Vegas,3Usx0QtbyiNtzTksvofjD8,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons Live in Vegas,43,0,False,0.571,0.93,0.0,-4.488,1.0,0.057,0.0229,0.0,0.806,0.592,101.978,227852.0,4.0
+Main Titles (You’ve Been Called Back to Top Gun),74BfFG9qR85KXxN49esFVA,Harold Faltermeyer,7Cf73Z3RZQTH4V69GSDxnv,Top Gun: Maverick (Music From The Motion Picture),60,1,False,0.493,0.302,5.0,-12.478,1.0,0.0289,0.0404,0.834,0.107,0.157,107.425,150667.0,4.0
+Danger Zone,4XGl23ZBBQQ7KD9uSpvswx,Kenny Loggins,3Y3xIwWyq5wnNHPp5gPjOW,Top Gun: Maverick (Music From The Motion Picture),0,0,False,0.553,0.887,3.0,-6.463,0.0,0.0387,0.0697,0.0,0.186,0.687,156.767,215573.0,4.0
+Darkstar,5jximgvZO7gGAFQndsSltj,Harold Faltermeyer,7Cf73Z3RZQTH4V69GSDxnv,Top Gun: Maverick (Music From The Motion Picture),51,1,False,0.448,0.381,2.0,-18.062,1.0,0.0346,0.666,0.756,0.0781,0.14,145.031,181053.0,4.0
+Great Balls Of Fire - Live,79iLGWV1TP277jSF8QJEo3,Miles Teller,0Mwiznen8otvLN9KAHeUlq,Top Gun: Maverick (Music From The Motion Picture),58,1,False,0.562,0.605,9.0,-7.299,1.0,0.0421,0.765,0.0,0.728,0.629,160.039,114760.0,4.0
+You’re Where You Belong / Give ‘Em Hell,5aAFhwGmoTsYd3ICgj5Ms2,Harold Faltermeyer,7Cf73Z3RZQTH4V69GSDxnv,Top Gun: Maverick (Music From The Motion Picture),50,1,False,0.157,0.0927,2.0,-20.179,1.0,0.0379,0.587,0.779,0.111,0.0325,145.73,346347.0,4.0
+I Ain't Worried,73PAbYaVbnFG0tQ4aBfxeN,OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,Top Gun: Maverick (Music From The Motion Picture),60,0,False,0.704,0.797,0.0,-5.927,1.0,0.0475,0.0826,0.000745,0.0546,0.825,139.994,148486.0,4.0
+Dagger One Is Hit / Time To Let Go,3Wceo1KylCeOUKJv8EVrMy,Harold Faltermeyer,7Cf73Z3RZQTH4V69GSDxnv,Top Gun: Maverick (Music From The Motion Picture),45,0,False,0.0633,0.0976,5.0,-20.081,1.0,0.0496,0.72,0.792,0.108,0.0344,61.466,306027.0,4.0
+Tally Two / What’s The Plan / F-14,2RfBOqxUl9g0fHJ0NuYFAO,Harold Faltermeyer,7Cf73Z3RZQTH4V69GSDxnv,Top Gun: Maverick (Music From The Motion Picture),45,1,False,0.182,0.342,2.0,-15.843,0.0,0.0348,0.424,0.673,0.115,0.0388,145.068,274493.0,4.0
+"The Man, The Legend / Touchdown",3vPFtJIPNknOiMK7IcBtzn,Harold Faltermeyer,7Cf73Z3RZQTH4V69GSDxnv,Top Gun: Maverick (Music From The Motion Picture),51,1,False,0.237,0.436,7.0,-11.845,1.0,0.0315,0.25,0.932,0.142,0.05,152.238,234493.0,3.0
+Penny Returns - Interlude,0hGL3mxCQJB5l64LsWcSN5,Harold Faltermeyer,7Cf73Z3RZQTH4V69GSDxnv,Top Gun: Maverick (Music From The Motion Picture),45,1,False,0.168,0.0184,7.0,-27.194,1.0,0.0414,0.871,0.934,0.0863,0.0327,112.285,167307.0,4.0
+Hold My Hand,1c2hJSwcCfoPEw1su83Sw0,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Top Gun: Maverick (Music From The Motion Picture),65,0,False,0.53,0.612,7.0,-4.286,1.0,0.0331,0.0403,0.0,0.393,0.264,148.009,225280.0,3.0
+Top Gun Anthem,1ZkmPku85veww4fF66aUFF,Harold Faltermeyer,7Cf73Z3RZQTH4V69GSDxnv,Top Gun: Maverick (Music From The Motion Picture),56,1,False,0.448,0.336,2.0,-13.124,1.0,0.0322,0.00145,0.838,0.0661,0.0364,107.351,148933.0,4.0
+Never Really Over,1IIV8jglA0klVZy17q665k,Katy Perry,6jJ0s89eD6GaHleKKya26X,Smile,62,0,False,0.77,0.881,8.0,-4.776,1.0,0.067,0.217,0.0,0.324,0.367,99.995,223297.0,4.0
+Cry About It Later,7cLrrJ1Dk6WAQyDIj9j26A,Katy Perry,6jJ0s89eD6GaHleKKya26X,Smile,48,0,False,0.699,0.669,2.0,-5.829,0.0,0.0712,0.0794,1.71e-05,0.248,0.444,125.994,189773.0,4.0
+Teary Eyes,3i0uu4DEpcmEAudChpVDBh,Katy Perry,6jJ0s89eD6GaHleKKya26X,Smile,44,0,False,0.616,0.659,7.0,-5.994,1.0,0.0404,0.104,0.0,0.079,0.441,125.962,182595.0,4.0
+Daisies,367wyLNqQMr5e8S2E6Zvpp,Katy Perry,6jJ0s89eD6GaHleKKya26X,Smile,51,0,False,0.642,0.546,1.0,-5.377,1.0,0.0407,0.0825,0.0,0.0989,0.142,122.165,174313.0,4.0
+Resilient,3By64Pmpn0LkwPKSjqSTBp,Katy Perry,6jJ0s89eD6GaHleKKya26X,Smile,40,0,False,0.7,0.519,0.0,-7.091,1.0,0.0576,0.317,0.0,0.159,0.65,135.871,187822.0,4.0
+Not the End of the World,2F20djOXWDSFEXu3tPdV71,Katy Perry,6jJ0s89eD6GaHleKKya26X,Smile,49,0,False,0.508,0.738,2.0,-5.126,0.0,0.0579,0.119,0.0,0.0558,0.523,158.131,178642.0,4.0
+Smile,59s3aMqR9uOzLIXAcgBCEm,Katy Perry,6jJ0s89eD6GaHleKKya26X,Smile,53,0,False,0.783,0.912,0.0,-3.713,1.0,0.243,0.0238,0.0,0.339,0.749,98.025,166898.0,4.0
+Champagne Problems,5iKXqTVr88ghRPwMEeVKVM,Katy Perry,6jJ0s89eD6GaHleKKya26X,Smile,47,0,False,0.711,0.674,10.0,-6.114,1.0,0.106,0.0185,0.0,0.184,0.774,108.883,196218.0,4.0
+Tucked,5ahNnBifspeXOi1sMbiXHT,Katy Perry,6jJ0s89eD6GaHleKKya26X,Smile,50,0,False,0.775,0.68,7.0,-5.155,1.0,0.038,0.00544,0.0,0.047,0.929,123.005,187436.0,4.0
+Harleys In Hawaii,3B4etxytImrRKQgV3XHjnR,Katy Perry,6jJ0s89eD6GaHleKKya26X,Smile,70,0,False,0.721,0.751,10.0,-6.203,0.0,0.125,0.162,6.59e-06,0.118,0.738,140.095,185481.0,4.0
+Only Love,6lWp5O5XH6smTt4vzd4Mgy,Katy Perry,6jJ0s89eD6GaHleKKya26X,Smile,40,0,True,0.71,0.46,0.0,-7.56,1.0,0.0492,0.297,0.0,0.106,0.228,98.033,198725.0,4.0
+What Makes A Woman,2czhdHhprTLjvlIzj56jQt,Katy Perry,6jJ0s89eD6GaHleKKya26X,Smile,39,0,True,0.363,0.594,2.0,-7.847,1.0,0.079,0.184,0.0,0.106,0.257,94.639,131271.0,4.0
+F40 - Remix,7m12pGA8jpRVQDH7pURUs2,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),29,0,False,0.654,0.488,9.0,-6.668,1.0,0.366,0.0214,1.1e-05,0.133,0.495,147.956,145498.0,4.0
+Ego,2gy2y58w8ehu8FtejAetPC,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),28,0,False,0.698,0.432,6.0,-8.452,0.0,0.0621,0.291,0.0,0.277,0.635,88.069,135607.0,4.0
+Tu Veneno,1U2mmPR0XAthoaTfmdD9Rt,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),31,0,False,0.655,0.622,10.0,-5.292,0.0,0.0802,0.0701,0.000326,0.0848,0.835,175.782,156910.0,4.0
+Ma' G,15wGFBcFIU4lIyGYPd8fTX,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),27,0,False,0.908,0.648,1.0,-7.794,1.0,0.135,0.0358,0.000672,0.157,0.674,136.994,225982.0,4.0
+Una Nota,2ErzUOFJDwXC9N9pxg5owK,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),31,0,False,0.676,0.759,3.0,-5.59,0.0,0.191,0.0199,0.0,0.09,0.724,179.885,169775.0,4.0
+Te Acuerdas De Mí,1z4sMKpdrohzfbAcGvJ0Id,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),28,0,False,0.776,0.835,8.0,-5.685,0.0,0.0634,0.00369,3.65e-06,0.188,0.82,89.973,105071.0,4.0
+In Da Getto,4b85BuKVWeVpTNapUwUY70,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),30,0,False,0.914,0.694,8.0,-4.194,1.0,0.0457,0.0156,3.81e-05,0.134,0.625,127.008,130667.0,4.0
+Billetes De 100,6kbTUuf7wblDIkChKnp6Qa,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),26,0,False,0.713,0.595,10.0,-6.124,0.0,0.32,0.0996,0.0,0.0848,0.467,176.036,164096.0,4.0
+La Venganza,4M9WQVRzTYJMhcu9w0iBp5,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),29,0,False,0.782,0.674,2.0,-4.929,0.0,0.0532,0.331,3.32e-06,0.116,0.493,91.99,247898.0,4.0
+Vestido,2stsEhSzL0S2N9jLVonX0A,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),29,0,False,0.792,0.647,5.0,-6.42,0.0,0.166,0.317,1.52e-05,0.107,0.77,176.036,186464.0,4.0
+Que Locura,5qXKZHLDz3nViqcDxuncmF,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),26,0,False,0.795,0.777,0.0,-6.833,0.0,0.0609,0.182,5.09e-05,0.212,0.758,113.0,198709.0,4.0
+Bebé Que Bien Te Ves,3dNDCRnjkzeYBMKcboXDSj,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),29,0,False,0.749,0.628,1.0,-7.592,1.0,0.0877,0.0521,0.0,0.183,0.638,165.994,226233.0,4.0
+Lo Que Dios Quiera,3NBfuk7KPp8pZWolz9ngjn,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),25,0,False,0.604,0.647,5.0,-7.583,1.0,0.0745,0.0198,2.49e-05,0.0685,0.573,88.854,194823.0,4.0
+Si Te Atreves,0vJE6xH3oPfadDN1r9jpA6,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),24,0,False,0.68,0.69,1.0,-6.919,1.0,0.177,0.162,0.0,0.213,0.558,188.087,169361.0,4.0
+Fantasías,0qH2zWZooBnBWB5fCrgf7E,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),24,0,False,0.845,0.46,3.0,-7.957,1.0,0.266,0.0663,1.35e-06,0.109,0.687,80.001,195413.0,4.0
+Pa' Guayarte,2OHPFm1DZylJjnAxtkEB9t,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),24,0,False,0.775,0.641,2.0,-7.116,0.0,0.148,0.0537,3.36e-05,0.0942,0.51,175.984,197021.0,4.0
+Ganas De Verte,48aUHvtdqw9x38TanZ4pEy,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),24,0,False,0.677,0.623,1.0,-7.27,1.0,0.0692,0.347,0.0,0.129,0.345,167.981,177896.0,4.0
+Perra,65TQPHGYf1QWqC6UC6BvPl,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),25,0,False,0.826,0.94,1.0,-2.793,1.0,0.364,0.0806,0.000362,0.358,0.783,97.928,157932.0,4.0
+7 De Mayo,759LvBx5vKgmDMOKBbGDUw,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),21,0,False,0.77,0.451,8.0,-10.793,0.0,0.311,0.664,1.25e-06,0.198,0.587,93.045,209240.0,4.0
+Suerte,72kLyNuOd1XX3xInSSP4bB,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,JOSE (Deluxe Edition),23,0,False,0.797,0.486,2.0,-6.943,0.0,0.373,0.323,0.00729,0.104,0.548,175.931,203014.0,4.0
+We Don't Trust You,1pnDvUuAEd6z8bKEsbAjk1,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,73,0,True,0.779,0.508,6.0,-7.169,0.0,0.271,0.478,0.000439,0.243,0.346,124.091,226213.0,4.0
+Young Metro,3OxL6MuctgZp1e0zxoAZhH,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,74,0,True,0.716,0.664,6.0,-7.297,0.0,0.0571,0.11,0.0,0.11,0.209,112.054,205347.0,4.0
+Ice Attack,70ToiXlzl8N1EgfC07ZcZE,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,68,0,True,0.555,0.528,11.0,-6.368,0.0,0.356,0.0373,0.0,0.16,0.456,149.723,199253.0,4.0
+Type Shit,28drn6tQo95MRvO0jQEo5C,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,87,1,True,0.64,0.552,2.0,-5.679,1.0,0.129,0.0215,0.0,0.119,0.112,144.941,228267.0,4.0
+Claustrophobic,57ELn9TPDIhrpl0dasS465,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,63,0,True,0.681,0.607,1.0,-5.815,1.0,0.259,0.0501,1.54e-05,0.449,0.225,73.562,222053.0,4.0
+Like That,2tudvzsrR56uom6smgOcSf,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,88,1,True,0.814,0.676,11.0,-4.67,0.0,0.231,0.00709,1.28e-05,0.119,0.312,162.012,267707.0,4.0
+Slimed In,2GLWhy9iiO1wrLUF5l4FtJ,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,65,0,True,0.749,0.403,1.0,-8.395,0.0,0.135,0.103,0.000186,0.324,0.0619,118.153,194907.0,4.0
+Magic Don Juan (Princess Diana),7pBcryEKcUEaWHwAu1wUyP,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,63,0,True,0.596,0.507,1.0,-5.719,0.0,0.227,0.0404,2.67e-06,0.164,0.0988,139.194,220733.0,4.0
+Cinderella,0hKtu53OlIFXVuYkZwcn3o,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,80,1,True,0.876,0.412,5.0,-7.74,0.0,0.0748,0.431,0.0,0.101,0.15,130.052,169840.0,4.0
+Runnin Outta Time,4q7y1JFDBJSBSLqXVgcI51,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,64,0,True,0.777,0.463,10.0,-7.573,0.0,0.242,0.231,4.29e-06,0.366,0.18,105.998,205480.0,4.0
+Fried (She a Vibe),28xOPIPw0joNPwYd0asIT5,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,73,0,True,0.833,0.688,6.0,-4.581,0.0,0.197,0.00211,0.0,0.719,0.375,145.03,210173.0,4.0
+Ain't No Love,72qABvaqn3TP6drO2tByA6,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,62,0,True,0.754,0.673,9.0,-6.341,1.0,0.131,0.0842,8.59e-05,0.0841,0.112,147.02,182840.0,4.0
+Everyday Hustle,3Vg7nPYlOrCkcV1abKbRQ1,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,71,0,True,0.557,0.704,6.0,-5.641,0.0,0.39,0.0595,0.0,0.676,0.378,179.494,226947.0,3.0
+GTA,4XF9fk0STp9hx8xn5Suwpz,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,65,0,True,0.851,0.647,9.0,-6.336,1.0,0.171,0.00147,0.00251,0.498,0.318,126.016,233027.0,4.0
+Seen it All,5imsnhkfPCm3wajS9ksb21,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,60,0,True,0.72,0.537,4.0,-5.768,1.0,0.388,0.0924,0.000113,0.125,0.198,88.002,179440.0,4.0
+WTFYM,1xwvjqcwflD2NEqRCNcCo2,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,62,0,True,0.81,0.587,5.0,-6.336,0.0,0.287,0.373,0.0,0.116,0.628,147.925,292600.0,4.0
+Where My Twin @ - Bonus,30TcFxtFyju8isK6Hjo9KY,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,59,0,True,0.742,0.573,0.0,-5.447,1.0,0.246,0.0371,0.0,0.0511,0.13,178.088,122787.0,4.0
+I'M THAT GIRL,1MpCaOeUWhox2Fgigbe1cL,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,64,0,True,0.554,0.535,5.0,-8.959,0.0,0.186,0.0616,1.32e-05,0.124,0.136,105.865,208014.0,4.0
+COZY,0mKGwFMHzTprtS2vpR3b6s,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,65,0,True,0.556,0.63,7.0,-8.15,1.0,0.102,0.000828,0.00468,0.155,0.367,149.147,210372.0,5.0
+ALIEN SUPERSTAR,1Hohk6AufHZOrrhMXZppax,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,68,0,True,0.545,0.641,10.0,-6.398,0.0,0.0998,0.00453,6.59e-05,0.171,0.464,121.892,215460.0,4.0
+CUFF IT,1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,77,1,True,0.78,0.689,7.0,-5.668,1.0,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,225389.0,4.0
+ENERGY (feat. Beam),0314PeD1sQNonfVWix3B2K,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,67,0,False,0.903,0.519,1.0,-9.151,1.0,0.26,0.281,0.000106,0.155,0.587,114.991,116727.0,4.0
+BREAK MY SOUL,5pyoxDZ1PX0KxBxiRVxA4U,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,68,0,False,0.693,0.887,1.0,-5.039,0.0,0.0795,0.0581,2.71e-06,0.27,0.864,114.942,278282.0,4.0
+CHURCH GIRL,2mqTtvbKxH7SoEQ2oGAnsA,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,61,0,True,0.792,0.919,2.0,-5.688,1.0,0.276,0.0381,5.1e-06,0.368,0.22,92.028,224473.0,4.0
+PLASTIC OFF THE SOFA,6ufcuVInt0ocHrUimDjGlb,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,61,0,False,0.618,0.712,1.0,-8.246,1.0,0.114,0.14,4.53e-06,0.575,0.305,97.057,254319.0,4.0
+VIRGO'S GROOVE,0Fl4eWzVaMUOdXcOrj6F1q,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,63,0,True,0.683,0.85,11.0,-5.042,0.0,0.0699,0.0781,1.09e-06,0.741,0.598,107.988,368758.0,4.0
+MOVE (feat. Grace Jones & Tems),5YLGlPYkZBDXieMwzVve7g,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,62,0,False,0.876,0.628,1.0,-6.595,1.0,0.0935,0.0165,0.0339,0.0938,0.809,118.028,203383.0,4.0
+HEATED,1w7cgGZR86yWz1pA2puVJD,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,67,0,True,0.785,0.732,1.0,-5.724,1.0,0.164,0.0636,0.000807,0.265,0.496,110.952,260771.0,4.0
+THIQUE,1LCm0lFnEsxR2oPqyHLGX9,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,61,0,True,0.823,0.536,5.0,-10.123,0.0,0.319,0.0616,0.0143,0.326,0.537,128.955,244792.0,4.0
+ALL UP IN YOUR MIND,3k4CoiIQXiNBrwrmbBMDxj,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,60,0,True,0.744,0.577,9.0,-7.228,1.0,0.0631,0.0672,3.06e-06,0.178,0.0805,135.869,169820.0,4.0
+AMERICA HAS A PROBLEM,2XMAWynSTIst5KmLSv0Npf,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,66,0,True,0.789,0.614,1.0,-6.491,1.0,0.0579,0.00348,0.00152,0.283,0.108,126.035,198898.0,4.0
+PURE/HONEY,4DByEumlGTZKSzuVEZ35eo,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,64,0,True,0.857,0.558,1.0,-7.888,1.0,0.134,0.0122,4.8e-05,0.288,0.453,123.973,288255.0,4.0
+SUMMER RENAISSANCE,3HyR1j49TY5ACP2lseF1jx,Beyoncé,6vWDO969PvNqNYHIOW5v0m,RENAISSANCE,62,0,True,0.674,0.625,1.0,-9.593,1.0,0.0514,0.0843,0.0015,0.11,0.208,120.004,273998.0,4.0
+Hello,62PaSfnXSMyLshYJrlTuL3,Adele,4dpARuHxo51G3z768sgnrY,25,72,1,False,0.578,0.43,5.0,-6.134,0.0,0.0305,0.33,0.0,0.0854,0.288,78.991,295502.0,4.0
+Send My Love (To Your New Lover),0t7fVeEJxO2Xi4H2K5Svc9,Adele,4dpARuHxo51G3z768sgnrY,25,72,0,False,0.688,0.533,6.0,-8.363,0.0,0.0865,0.0355,3.48e-06,0.172,0.567,164.069,223079.0,4.0
+I Miss You,6QSJvH2m7QLAiFIywwzCVi,Adele,4dpARuHxo51G3z768sgnrY,25,58,0,False,0.382,0.578,5.0,-4.246,1.0,0.047,0.00982,1.44e-05,0.433,0.156,113.072,348625.0,4.0
+When We Were Young,7GgWAITsYJaRM3r50rfh5w,Adele,4dpARuHxo51G3z768sgnrY,25,73,1,False,0.376,0.595,3.0,-5.936,1.0,0.0496,0.303,0.0,0.095,0.265,144.361,290900.0,4.0
+Remedy,5CjKwY7FUJgKSwTVzoQIaU,Adele,4dpARuHxo51G3z768sgnrY,25,60,0,False,0.405,0.3,2.0,-6.475,1.0,0.0378,0.894,0.0,0.154,0.24,162.355,245427.0,3.0
+Water Under the Bridge,4jL6WWKFDqCOPo2hC3VhSS,Adele,4dpARuHxo51G3z768sgnrY,25,69,0,False,0.59,0.833,5.0,-6.503,0.0,0.0615,0.0142,5.4e-06,0.105,0.538,94.963,240439.0,4.0
+River Lea,3hwu7jZD2TjvWCeHzNlgSE,Adele,4dpARuHxo51G3z768sgnrY,25,56,0,False,0.384,0.585,1.0,-5.588,1.0,0.0311,0.0591,1.77e-06,0.116,0.252,82.378,225427.0,4.0
+Love In The Dark,7B5Npv8NjjTCzk8PLpU66h,Adele,4dpARuHxo51G3z768sgnrY,25,74,1,False,0.331,0.341,9.0,-6.057,0.0,0.0309,0.528,0.0,0.109,0.152,109.821,285935.0,4.0
+Million Years Ago,0ijHEBUBXIJPp5ubUkDLQi,Adele,4dpARuHxo51G3z768sgnrY,25,63,0,False,0.72,0.274,1.0,-7.623,0.0,0.0276,0.742,0.0,0.11,0.179,105.929,227066.0,4.0
+All I Ask,05TOt5Vz4StdjMpEdFPlvB,Adele,4dpARuHxo51G3z768sgnrY,25,69,0,False,0.591,0.28,4.0,-5.494,1.0,0.0283,0.889,0.0,0.124,0.348,141.916,271800.0,4.0
+Sweetest Devotion,10tHyoc3wSA5scOVZuMcFm,Adele,4dpARuHxo51G3z768sgnrY,25,52,0,False,0.416,0.752,0.0,-5.471,1.0,0.0396,0.251,0.0,0.125,0.266,155.89,251702.0,3.0
+WTF Do I Know,37PJvlIfYWqEX6fgjHlnTf,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,56,0,True,0.564,0.849,4.0,-2.619,0.0,0.248,0.00255,0.0,0.269,0.634,157.905,171800.0,4.0
+Plastic Hearts,6qCsKKS7Ol63SJW3LOIX5R,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,63,0,False,0.551,0.756,2.0,-4.948,1.0,0.0652,0.0511,0.0,0.0765,0.618,175.984,205733.0,4.0
+Angels Like You,1daDRI9ahBonbWD8YcxOIB,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,80,1,False,0.672,0.642,5.0,-4.035,1.0,0.0313,0.0981,0.0,0.1,0.494,121.981,196453.0,4.0
+Prisoner (feat. Dua Lipa),2Oycxb8QbPkpHTo8ZrmG0B,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,72,1,False,0.781,0.67,3.0,-3.912,0.0,0.0452,0.0103,0.0,0.0761,0.595,127.99,169333.0,4.0
+Gimme What I Want,4v8jmsVox8VwU5js3JHOJZ,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,54,0,False,0.659,0.765,0.0,-5.392,0.0,0.0591,0.0428,0.0,0.0783,0.41,89.983,151720.0,4.0
+Night Crawling (feat. Billy Idol),4U34WsyOvppOMnRfq7DuOy,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,55,0,False,0.638,0.918,11.0,-4.368,1.0,0.0382,0.0378,0.00805,0.0948,0.668,134.022,189013.0,4.0
+Midnight Sky,4i2qxFEVVUi8yOYoxB8TCX,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,70,0,False,0.699,0.805,4.0,-5.535,0.0,0.0345,0.00161,0.00177,0.249,0.232,109.976,223280.0,4.0
+High,2LseyBkPJv7r7wCt2yMEgX,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,51,0,False,0.474,0.54,5.0,-6.862,1.0,0.035,0.00481,1.03e-05,0.299,0.239,72.995,196760.0,4.0
+Hate Me,0rFcav2bUNH6NC9576Viiu,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,50,0,False,0.652,0.597,6.0,-6.536,0.0,0.0286,0.0244,0.00103,0.238,0.333,90.022,157800.0,4.0
+Bad Karma (feat. Joan Jett),47KegqqrzpKw0jdHFWqtNb,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,51,0,True,0.82,0.568,4.0,-6.963,1.0,0.0538,0.0301,0.0092,0.169,0.478,113.941,188200.0,4.0
+Never Be Me,1M7qLcfozANPcMKfgMEHOt,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,55,0,False,0.475,0.565,1.0,-7.853,0.0,0.0378,0.0578,4.84e-05,0.341,0.154,165.091,215520.0,4.0
+Golden G String,68qkDbsvprJRG5xw2R02dy,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,47,0,False,0.537,0.506,11.0,-6.139,1.0,0.0334,0.348,0.0,0.0786,0.112,105.292,235747.0,3.0
+Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks),1Tip6R4swhC7E6hgILBjrE,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,61,0,False,0.681,0.737,4.0,-5.246,0.0,0.0384,0.0291,7.16e-06,0.0856,0.278,109.95,220636.0,4.0
+Heart Of Glass (Live from the iHeart Festival),5GK1GYXH16RdfmltogHhAk,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,65,0,False,0.58,0.908,4.0,-5.303,1.0,0.0341,0.000335,4.84e-05,0.087,0.427,115.016,213672.0,4.0
+Zombie (Live from the NIVA Save Our Stages Festival),0olaaJrCBTMJJvqPdvNpsx,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Plastic Hearts,57,0,False,0.407,0.872,7.0,-5.001,1.0,0.0354,0.000206,0.0451,0.127,0.323,164.0,290768.0,4.0
+Snowman Pt. 1 - Lofi Soundscape,6WrVjGhIm749e1rMEhYZbY,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),27,0,False,0.517,0.424,1.0,-16.001,1.0,0.0342,0.172,0.847,0.133,0.288,80.013,140870.0,4.0
+Snowman Pt. 2 - Lofi Soundscape,3p4EFYuQGYofKSZL5HeIUi,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),26,0,False,0.505,0.445,1.0,-13.556,1.0,0.0306,0.104,0.779,0.144,0.37,159.966,179410.0,4.0
+Snowman Pt. 3 - Lofi Soundscape,13nUQUsqIiqFyunTYurMIN,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),24,0,False,0.56,0.446,1.0,-14.127,1.0,0.0354,0.115,0.767,0.155,0.306,160.037,204721.0,4.0
+Gimme Love Pt. 1 - Lofi Soundscape,76Q5kDzi0q8g5h084r3fs5,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),24,0,False,0.448,0.36,11.0,-18.059,1.0,0.0766,0.0794,0.807,0.173,0.103,160.013,258000.0,4.0
+Gimme Love Pt. 2 - Lofi Soundscape,4lzDHtNGtXyP8Rui7RMK0O,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),23,0,False,0.486,0.386,1.0,-16.074,0.0,0.0532,0.0886,0.813,0.169,0.197,159.998,143683.0,4.0
+Gimme Love Pt. 3 - Lofi Soundscape,4kNq8qJgtDdVUafYPmZctu,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),23,0,False,0.553,0.435,1.0,-14.745,0.0,0.0399,0.0274,0.747,0.184,0.197,160.012,192067.0,4.0
+Gimme Love Pt. 4 - Lofi Soundscape,2Wbhx1j7X0uLxw1sL03uH7,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),22,0,False,0.447,0.307,1.0,-18.277,0.0,0.0496,0.104,0.752,0.208,0.136,80.016,174291.0,4.0
+Santa's Coming for Us Pt. 1 - Lofi Soundscape,7jv4zuKA53TrXo6uyTVNf7,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),22,0,False,0.668,0.523,1.0,-16.191,1.0,0.209,0.255,0.795,0.45,0.595,160.129,142250.0,4.0
+Santa's Coming for Us Pt. 2 - Lofi Soundscape,7nGuNYEFRT7bnGymV5uOEO,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),21,0,False,0.68,0.539,1.0,-15.114,1.0,0.0987,0.0665,0.843,0.289,0.613,159.976,193756.0,4.0
+Santa's Coming for Us Pt. 3 - Lofi Soundscape,5nwRkZDgYMZ9HrebZHxjNx,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),21,0,False,0.647,0.481,1.0,-16.39,1.0,0.213,0.179,0.81,0.153,0.472,80.008,162574.0,4.0
+Candy Cane Lane Pt. 1 - Lofi Soundscape,5vecHwxtCQjbKdmSfU2a6i,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),21,0,False,0.572,0.346,11.0,-17.236,1.0,0.0477,0.257,0.751,0.14,0.249,159.963,143159.0,4.0
+Candy Cane Lane Pt. 2 - Lofi Soundscape,5jMQ1Du7MgxYIjlelryJYY,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),20,0,False,0.562,0.387,1.0,-16.287,1.0,0.0513,0.138,0.758,0.116,0.463,159.956,174774.0,4.0
+Candy Cane Lane Pt. 3 - Lofi Soundscape,1wgLxRJJHHnUyky9JUGx3N,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),20,0,False,0.484,0.279,11.0,-19.151,1.0,0.039,0.278,0.887,0.116,0.21,79.983,176993.0,4.0
+Ho Ho Ho Pt. 1 - Lofi Soundscape,1m8Z5XoSaXL0iWeQ2mWrSl,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),20,0,False,0.617,0.397,0.0,-16.83,1.0,0.0454,0.595,0.589,0.0981,0.349,79.998,143828.0,4.0
+Ho Ho Ho Pt. 2 - Lofi Soundscape,2fw4uA6WkAipjR7A51GlRy,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),20,0,False,0.577,0.458,0.0,-15.507,1.0,0.0353,0.413,0.861,0.108,0.353,159.996,168309.0,4.0
+Ho Ho Ho Pt. 3 - Lofi Soundscape,4Dw3KoMkBAX1K1iCFV0855,Sia,5WUlDfRSoLAfcVSX1WnrxN,Gimme Christmas (Lofi Soundscape),19,0,False,0.565,0.377,0.0,-17.742,1.0,0.0386,0.617,0.855,0.0952,0.22,80.004,184992.0,4.0
+Meet Me in the Hallway,4u9Y4Z9i9VaAbBK7rW1Rha,Harry Styles,6KImCVD70vtIoJWnq6nGn3,Harry Styles,62,0,False,0.537,0.383,2.0,-6.528,1.0,0.0247,0.747,0.00025,0.356,0.339,104.252,227200.0,4.0
+Sign of the Times,5Ohxk2dO5COHF1krpoPigN,Harry Styles,6KImCVD70vtIoJWnq6nGn3,Harry Styles,81,1,False,0.516,0.595,5.0,-4.63,1.0,0.0313,0.0275,0.0,0.109,0.222,119.972,340707.0,4.0
+Carolina,3Dwq1oiOFys6Sxr5SslmXw,Harry Styles,6KImCVD70vtIoJWnq6nGn3,Harry Styles,63,0,False,0.624,0.673,4.0,-4.017,0.0,0.0268,0.000569,1.54e-06,0.104,0.458,121.986,189613.0,4.0
+Two Ghosts,4B1rpPmQXwj78wk6aIGwwU,Harry Styles,6KImCVD70vtIoJWnq6nGn3,Harry Styles,65,0,False,0.386,0.407,6.0,-7.095,0.0,0.0268,0.234,1.86e-06,0.0999,0.456,69.387,229813.0,4.0
+Sweet Creature,5kRPPEWFJIMox5qIkQkiz5,Harry Styles,6KImCVD70vtIoJWnq6nGn3,Harry Styles,71,0,False,0.427,0.262,7.0,-8.541,1.0,0.0276,0.746,0.0,0.068,0.228,104.085,224867.0,4.0
+Only Angel,5Lbsc65org0b85kNsPkluY,Harry Styles,6KImCVD70vtIoJWnq6nGn3,Harry Styles,63,0,False,0.554,0.842,5.0,-4.113,1.0,0.0397,0.287,0.0,0.106,0.348,114.036,291080.0,4.0
+Kiwi,33SNO8AaciGbNaQFkxvPrW,Harry Styles,6KImCVD70vtIoJWnq6nGn3,Harry Styles,69,0,False,0.375,0.93,2.0,-2.631,1.0,0.0561,0.00064,0.0,0.318,0.491,147.124,176387.0,4.0
+Ever Since New York,5LABCxgmP7DATATIJXOh6n,Harry Styles,6KImCVD70vtIoJWnq6nGn3,Harry Styles,61,0,False,0.389,0.537,10.0,-6.761,1.0,0.0309,0.2,3.13e-06,0.125,0.383,127.964,253387.0,5.0
+Woman,33bURv895AN4FkBvgFo2dx,Harry Styles,6KImCVD70vtIoJWnq6nGn3,Harry Styles,62,0,False,0.624,0.647,3.0,-4.68,0.0,0.0335,0.0169,0.0038,0.221,0.379,136.022,278800.0,4.0
+From the Dining Table,1IF5UcqRO42D12vYwceOY6,Harry Styles,6KImCVD70vtIoJWnq6nGn3,Harry Styles,68,0,False,0.671,0.156,8.0,-16.288,1.0,0.0371,0.804,0.0518,0.113,0.201,94.08,211960.0,4.0
+Future Speaks,78n79LrVMjVafygKDuif9O,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,20,0,True,0.66,0.334,5.0,-9.815,0.0,0.0444,0.377,0.0872,0.183,0.17,123.02,175620.0,4.0
+All I Need,2aKOiRtrsX4gYpESKlVeOK,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,20,0,True,0.842,0.534,0.0,-7.226,1.0,0.0619,0.000997,0.0,0.226,0.0948,119.948,215000.0,4.0
+Disloyal,7dHD6Pi6Y2GTThnPhJ9vhw,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,18,0,True,0.712,0.665,1.0,-7.628,1.0,0.102,0.00318,1.57e-05,0.133,0.341,134.932,278413.0,4.0
+You a Drug,3TlFe57RW3iLtdmKitrXIW,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,23,0,True,0.701,0.654,6.0,-5.938,1.0,0.0876,0.057,0.0,0.257,0.63,134.896,191425.0,4.0
+Metro Boomin Interlude,0NkVMeTGNFixQBr7SHmoBl,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,16,0,True,0.853,0.417,5.0,-9.253,0.0,0.0444,0.0032,0.611,0.138,0.25,126.988,122462.0,4.0
+Some More,75uhtyAfQrdudILwlIbmC4,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,32,0,True,0.777,0.654,2.0,-6.69,1.0,0.0406,0.00202,3.35e-05,0.162,0.417,135.002,220444.0,4.0
+Mink on the Floor,6rbwPDvzg4WTrt3ptrA1Nr,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,15,0,True,0.577,0.449,11.0,-10.9,1.0,0.134,0.145,8.37e-05,0.328,0.251,124.93,280645.0,4.0
+Mo,4qN7THm0tKoptJCH2wLTdB,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,15,0,True,0.766,0.504,8.0,-5.938,1.0,0.0384,0.341,0.0,0.0694,0.287,137.031,202951.0,4.0
+Fresh for the Love,4hztck65Rv6kfVocEo7b3w,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,18,0,True,0.794,0.644,2.0,-5.846,1.0,0.24,0.301,0.0,0.235,0.353,142.092,261093.0,4.0
+April Fools,14trLxHCfpIQCSLWYCX5cI,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,15,0,True,0.787,0.528,11.0,-6.379,1.0,0.0465,0.155,0.0,0.0863,0.407,127.027,237141.0,4.0
+Up and Down,3aaofeNe7LLlfirHxyQ7pA,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,15,0,True,0.772,0.25,1.0,-13.258,1.0,0.4,0.205,0.0,0.138,0.0627,135.083,163605.0,4.0
+No Sleep,3VmLTAude0RtCx6thki41G,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,13,0,True,0.722,0.577,11.0,-5.991,1.0,0.0787,0.0947,0.0,0.0775,0.365,137.974,121344.0,4.0
+Can't See 'Em,7wvWRHdhw6k3kB2DY75HPL,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,17,0,True,0.661,0.636,7.0,-8.011,0.0,0.0767,0.0324,6.48e-06,0.383,0.148,132.013,219318.0,4.0
+Serious,78WriHaRnPZkPFGypr1oRl,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,13,0,True,0.731,0.72,10.0,-7.32,0.0,0.295,0.0534,0.0,0.074,0.205,140.006,252918.0,4.0
+Fuck the Rap Game,1E7q70bCw1FsGI9rr8RkcP,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,14,0,True,0.876,0.375,6.0,-11.355,1.0,0.27,0.0246,0.0,0.254,0.341,133.997,203207.0,4.0
+Money Do,0NbvNgZuJmZM1lWiJVzAsY,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,13,0,True,0.668,0.442,8.0,-10.573,1.0,0.302,0.279,0.0,0.0668,0.168,124.224,211723.0,4.0
+Chanel Vintage,4IPAxbmUAlrnjWBQfMEjPr,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,19 & Boomin,25,0,True,0.831,0.657,10.0,-5.266,0.0,0.26,0.0254,0.0,0.478,0.193,134.978,281601.0,4.0
+The Hard Way,7j57nadsCph2KI9eYuaum8,PNAU,6n28c9qs9hNGriNa72b26u,The Hard Way,56,1,False,0.691,0.906,0.0,-4.458,1.0,0.171,0.072,0.0,0.299,0.657,119.978,183926.0,4.0
+Donante de Sangre,5vd9YdREntYfkgBg1lHw8v,Daddy Yankee,4VMYDCV2IEDYJArk749S6m,Donante de Sangre,47,0,False,0.688,0.796,2.0,-4.04,1.0,0.0485,0.00628,0.0,0.122,0.391,95.6,227600.0,4.0
+Tell It To My Heart (feat. Hozier),5ktAkUWde1ygwJKpY0zNs5,MEDUZA,0xRXCcSX89eobfrshSVdyu,Tell It To My Heart (Tiësto Remix),29,0,False,0.539,0.715,11.0,-6.639,0.0,0.0595,0.0265,0.0,0.609,0.489,123.854,165524.0,4.0
+Tell It To My Heart (feat. Hozier) - Tiësto Remix,4bL0sCjnM6a1rKoBIHJYxI,MEDUZA,0xRXCcSX89eobfrshSVdyu,Tell It To My Heart (Tiësto Remix),49,0,False,0.632,0.857,11.0,-3.659,0.0,0.0504,0.00177,0.000154,0.259,0.483,127.963,175313.0,4.0
+Better Alone,0qCcqa0gYjW8rerrC10yun,Benson Boone,22wbnEMDvgVIAGdFeek6ET,Better Alone,58,0,False,0.504,0.47,7.0,-6.105,1.0,0.0383,0.49,0.0,0.101,0.184,126.039,209895.0,4.0
+Innuendo - Remastered 2011,4bmak6Hd7NPwVrY26TjKNT,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),29,0,False,0.212,0.732,1.0,-5.751,1.0,0.0635,0.184,0.00472,0.296,0.17,73.419,393027.0,4.0
+I'm Going Slightly Mad - Remastered 2011,52zfZjVEiMM1EK51ERuaEi,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),30,0,False,0.638,0.834,9.0,-6.32,0.0,0.0536,0.572,1.18e-05,0.189,0.31,115.639,262933.0,4.0
+Headlong - Remastered 2011,7pNjsnSTgme34y3uc2qLHI,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),27,0,False,0.567,0.912,2.0,-5.26,1.0,0.0974,0.196,7.06e-06,0.127,0.371,143.983,277773.0,4.0
+I Can't Live With You - Remastered 2011,5LJy5FhiILp9WXf7g7dt6t,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),17,0,False,0.468,0.876,9.0,-4.123,1.0,0.0938,0.381,0.0,0.212,0.443,91.726,273560.0,4.0
+Don't Try So Hard - 2011 Remaster,6KMIEEateG40COfftc9aaZ,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),16,0,False,0.269,0.425,4.0,-7.004,0.0,0.0307,0.724,2.09e-05,0.235,0.132,104.397,219827.0,3.0
+Ride The Wild Wind - Remastered 2011,2HHQq82aQ5IAQmKjFSfIng,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),15,0,False,0.579,0.867,0.0,-7.964,1.0,0.0458,0.00455,0.00841,0.333,0.347,113.821,282920.0,4.0
+All God's People - Remastered 2011,7nC70Thd3EURj1hJSC949l,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),14,0,False,0.269,0.795,5.0,-8.063,1.0,0.11,0.229,0.00211,0.304,0.213,181.629,261653.0,3.0
+These Are The Days Of Our Lives - 2011 Remaster,2HpkD9J7t7xBaduVflpmqn,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),31,0,False,0.691,0.402,0.0,-9.628,1.0,0.0299,0.373,0.000117,0.0607,0.55,112.654,255040.0,4.0
+Delilah - Remastered 2011,2RK8K8hNdmg6j33WhmHe8m,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),18,0,False,0.727,0.508,7.0,-9.445,1.0,0.0293,0.386,2.43e-05,0.12,0.556,109.073,214560.0,4.0
+The Hitman - Remastered 2011,2QIiZxNq5zaUcSGGrJpa5h,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),17,0,False,0.384,0.982,3.0,-4.71,0.0,0.124,0.00375,0.0238,0.428,0.0952,90.175,296627.0,4.0
+Bijou - 2011 Remaster,6BULYluyVj6j2HCRRiUH67,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),16,0,False,0.181,0.389,2.0,-9.769,0.0,0.0384,0.93,0.438,0.352,0.056,68.417,216867.0,4.0
+The Show Must Go On - Remastered 2011,3hU637WcAGM5ubSqeaTme5,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),42,0,False,0.306,0.686,11.0,-6.928,0.0,0.0347,0.414,0.0,0.112,0.175,83.402,277827.0,4.0
+I Can't Live With You - 1997 Rocks Retake,08rtHaFfwvDFYGjvAFoOEa,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),12,0,False,0.37,0.893,9.0,-4.009,1.0,0.0784,0.364,0.00105,0.564,0.392,90.086,287893.0,4.0
+Lost Opportunity - B-Side,3uE41GyBRAF0bF9Z0ltQrt,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),14,0,False,0.379,0.436,4.0,-12.187,1.0,0.0275,0.329,0.0529,0.143,0.149,147.804,231800.0,3.0
+Ride The Wild Wind - Early Version With Guide Vocal,5bojXEmlwVyfOhgsgsfyyn,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),9,0,False,0.499,0.936,2.0,-7.614,1.0,0.047,0.00366,0.125,0.086,0.33,113.936,254120.0,4.0
+I'm Going Slightly Mad - Mad Mix,5JywqOwfpnDdV073yUAZyA,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),11,0,False,0.537,0.599,9.0,-8.104,0.0,0.0415,0.573,4.01e-06,0.711,0.331,115.69,275693.0,4.0
+Headlong - Embryo With Guide Vocal,5d9iArzDTl5ImyAHzYykzp,Queen,1dfeR4HaWDbWqFHLkxsg1d,Innuendo (Deluxe Remastered Version),9,0,False,0.505,0.823,2.0,-6.317,1.0,0.0428,0.0437,0.000411,0.187,0.638,144.014,284373.0,4.0
+should've wore a bonnet,2ISq2oerTCbtH7ZxaWUT1g,21 Savage,1URnnhqYAYcrqrcwql10ft,should've wore a bonnet,57,0,True,0.607,0.762,7.0,-5.305,1.0,0.0676,0.0441,0.0,0.348,0.428,144.961,186771.0,4.0
+Desire (with Sam Smith) - Extended,6NCp0NR1e8mvGm7iW3InJ8,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Desire (with Sam Smith) [Remixes],21,0,False,0.665,0.918,11.0,-5.505,0.0,0.0668,0.00062,0.305,0.0828,0.183,140.019,272747.0,4.0
+Desire (with Sam Smith) - Alok Remix,6BRvCkwXXhIH5UBx3UudHG,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Desire (with Sam Smith) [Remixes],24,0,False,0.416,0.914,7.0,-5.762,1.0,0.0381,0.00117,0.00412,0.328,0.325,147.974,176351.0,4.0
+Desire (with Sam Smith) - MEDUZA Remix,2sCsHk0Av0xgly5rWj2zK2,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Desire (with Sam Smith) [Remixes],18,0,False,0.609,0.851,11.0,-6.431,0.0,0.0356,0.0184,0.0204,0.179,0.215,130.006,181846.0,4.0
+Desire (with Sam Smith) - Hannah Laing Remix,3oKQoDsbSDki8BEPDhjP2p,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Desire (with Sam Smith) [Remixes],16,0,False,0.686,0.931,4.0,-4.616,0.0,0.0347,0.105,0.0298,0.0809,0.358,139.982,188891.0,4.0
+Desire (with Sam Smith) - Cedric Gervais Festival Mix,5RNNSy6j2ARA5G9Woj7zNQ,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Desire (with Sam Smith) [Remixes],15,0,False,0.562,0.839,11.0,-5.952,0.0,0.0482,0.00298,0.247,0.103,0.221,130.024,259352.0,4.0
+Desire (with Sam Smith) - Don Diablo Remix,38iHj8WKRqWUGk0qsCIvsX,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Desire (with Sam Smith) [Remixes],17,0,False,0.696,0.924,11.0,-3.517,0.0,0.0412,0.138,0.0353,0.278,0.328,128.009,197813.0,4.0
+Desire (with Sam Smith) - Steve Aoki & Kaaze Remix,4MCz5waYQ6sabZIqhRGkph,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Desire (with Sam Smith) [Remixes],18,0,False,0.557,0.903,7.0,-4.571,1.0,0.033,0.0189,0.00154,0.277,0.354,138.001,156739.0,4.0
+Desire (with Sam Smith) - Cedric Gervais Club Mix,4JfrwyU0qTTxMlVYvTrVaW,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Desire (with Sam Smith) [Remixes],18,0,False,0.655,0.733,11.0,-6.794,0.0,0.0395,0.025,0.127,0.0707,0.428,127.994,255457.0,4.0
+Desire (with Sam Smith) - Sub Focus Remix,0jjTkIzzCfhDr59pkrHueu,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Desire (with Sam Smith) [Remixes],16,0,False,0.428,0.989,11.0,-0.249,0.0,0.0583,0.0419,0.0667,0.137,0.204,173.919,242759.0,4.0
+Desire (with Sam Smith) - KC Lights Remix,27y5yRBvtktmrLNe9q5eh9,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Desire (with Sam Smith) [Remixes],27,0,False,0.65,0.845,11.0,-6.142,0.0,0.0715,0.0231,0.472,0.113,0.329,127.995,259375.0,4.0
+Desire (with Sam Smith) - Wh0 Remix,18iJmQzMPsAqparlf1Ywzn,Calvin Harris,7CajNmpbOovFoOoasH2HaY,Desire (with Sam Smith) [Remixes],14,0,False,0.554,0.918,4.0,-4.285,0.0,0.0388,0.00515,0.795,0.062,0.196,129.982,239538.0,4.0
+Airplane Tickets,2v1FKs8SR6tYEYREKM6MNN,Pharrell Williams,2RdwBSPQiwcmiDo9kixcl8,Airplane Tickets,60,0,False,0.788,0.822,10.0,-4.256,1.0,0.0891,0.0874,4.15e-05,0.0802,0.708,99.955,198515.0,4.0
+Attention,11xC6P3iKYpFThT6Ce1KdG,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Attention,63,0,True,0.759,0.567,2.0,-7.911,1.0,0.248,0.118,0.0278,0.105,0.421,87.981,277044.0,4.0
+One For The Road,69GXaKmq1wdZ8zFedogQKg,Arctic Monkeys,7Ln80lUS6He07XvHI8qqHH,One For The Road,41,0,False,0.415,0.668,0.0,-6.849,1.0,0.036,0.212,0.0615,0.27,0.842,180.048,206052.0,4.0
+You're So Dark,40DwUg5zPX8H23WpTdD2iW,Arctic Monkeys,7Ln80lUS6He07XvHI8qqHH,One For The Road,56,0,False,0.484,0.649,11.0,-7.479,0.0,0.0561,0.258,0.0116,0.0898,0.838,151.537,182751.0,4.0
+Goodbye Yellow Brick Road - Live,16rY0iVeZej75AUQZlx2sx,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,35,0,False,0.486,0.675,3.0,-6.345,1.0,0.0353,0.466,0.0,0.97,0.417,129.08,198760.0,4.0
+Philadelphia Freedom - Live,3waSF2I54XPmkATnnm27oA,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,26,0,False,0.531,0.931,10.0,-4.516,1.0,0.0365,0.0629,3.24e-05,0.761,0.686,135.291,321973.0,4.0
+Don't Go Breaking My Heart - Live,1X5AA3m3JPhOd2PXqAMPn7,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,29,0,False,0.546,0.908,2.0,-5.067,1.0,0.0405,0.0548,0.0,0.789,0.477,132.599,259333.0,4.0
+Rocket Man - Live,1XaFmFCXmDDLB0dd6rPLse,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,33,0,False,0.436,0.6,10.0,-8.027,1.0,0.0292,0.375,0.000849,0.759,0.243,138.417,343333.0,4.0
+Daniel - Live,1ulboLID7kIDgI4AVQW8mr,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,26,0,False,0.582,0.784,0.0,-6.174,1.0,0.032,0.178,0.00117,0.702,0.595,137.758,230627.0,4.0
+Crocodile Rock - Live,1r9pBo0tJK4Har2NLqQTx4,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,30,0,False,0.467,0.98,7.0,-4.24,1.0,0.066,0.135,0.0,0.976,0.776,149.945,253200.0,4.0
+Sacrifice - Live,0fChKGukh7abSJjcpRStVb,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,33,0,False,0.635,0.68,1.0,-6.945,1.0,0.0268,0.485,0.00151,0.738,0.534,113.979,320400.0,4.0
+Can You Feel The Love Tonight? - Live,4JBFf4a9VlxVJNHAgAl2hx,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,30,0,False,0.352,0.425,10.0,-8.704,1.0,0.0288,0.606,0.0,0.815,0.246,133.581,239907.0,4.0
+Bennie & The Jets - Live,3NuJeZEwySqpwwa15qAhxQ,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,27,0,False,0.548,0.727,0.0,-5.812,1.0,0.0421,0.231,3.01e-06,0.972,0.482,135.39,302667.0,4.0
+Your Song - Live,3l6S9GPwwWCV8ytZ9U3pAb,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,34,0,False,0.521,0.495,3.0,-8.841,1.0,0.0349,0.701,4.44e-05,0.801,0.262,128.841,257693.0,4.0
+Sad Songs (Say So Much) - Live,2WYfF5hwnTaVUQoYvAhjHK,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,29,0,False,0.581,0.914,0.0,-4.683,1.0,0.0353,0.075,0.0,0.876,0.883,120.652,234733.0,4.0
+Candle In The Wind - Live,6uaIVqaravhhG0rFBnexTE,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,30,0,False,0.527,0.699,4.0,-6.618,1.0,0.0315,0.422,0.000373,0.982,0.369,130.177,225133.0,4.0
+The Bitch Is Back - Live,7LxNzl5HyYiEA4owsxrFPM,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,25,0,False,0.407,0.99,0.0,-3.499,1.0,0.0887,0.00529,2.17e-05,0.98,0.544,141.039,252867.0,4.0
+Saturday Night's Alright (For Fighting) - Live,20lfQiRUE3Drkvyitb2C0f,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,28,0,False,0.275,0.995,5.0,-1.567,1.0,0.0812,0.0127,1.1e-06,0.942,0.692,152.916,278867.0,4.0
+I'm Still Standing - Live,6JN4eV0tbyo9STYa51I7ve,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,34,0,False,0.408,0.964,10.0,-3.52,0.0,0.085,0.0831,0.0,0.7,0.595,171.753,184267.0,4.0
+Don't Let The Sun Go Down On Me - Live,0Vz5Rwh9Yr3LM9tViZxHVd,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,28,0,False,0.381,0.657,0.0,-6.336,1.0,0.0367,0.471,4.51e-06,0.828,0.253,140.665,359373.0,4.0
+I Guess That's Why They Call It The Blues - Live,5qvjqcs6NyMwbmIgtVqSFs,Elton John,3PhoLpVuITZKcymswpck5b,One Night Only,28,0,False,0.5,0.888,0.0,-3.62,1.0,0.0546,0.365,0.0,0.956,0.479,119.412,310427.0,3.0
+MAMI,1RlZgym4YHbxu3ubXqAwjc,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,MAMI,68,0,True,0.785,0.77,6.0,-5.664,0.0,0.0413,0.326,2.44e-06,0.0804,0.71,116.998,189252.0,3.0
